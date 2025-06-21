@@ -1,11 +1,11 @@
 import React from 'react';
 import { HashRouter as Router, Routes, Route, NavLink } from 'react-router-dom';
-import { FaHome, FaUser, FaBullhorn } from 'react-icons/fa';
-import { MdOutlineEventAvailable } from 'react-icons/md';
+import { FaHome, FaUser, FaBullhorn, FaCalendarAlt } from 'react-icons/fa';
 import Home from './pages/Home';
 import Escalas from './pages/Escalas';
 import Avisos from './pages/Avisos';
 import Membros from './pages/Membros';
+import Eventos from './pages/Eventos';
 
 export default function App() {
   return (
@@ -16,6 +16,7 @@ export default function App() {
           <Route path="/escalas" element={<Escalas />} />
           <Route path="/avisos" element={<Avisos />} />
           <Route path="/membros" element={<Membros />} />
+          <Route path="/eventos" element={<Eventos />} />
         </Routes>
       </div>
 
@@ -43,7 +44,7 @@ export default function App() {
           to="/escalas"
           style={({ isActive }) => ({ color: isActive ? '#000' : '#ccc' })}
         >
-          <MdOutlineEventAvailable size={26} />
+          <FaCalendarAlt size={26} />
         </NavLink>
 
         <NavLink

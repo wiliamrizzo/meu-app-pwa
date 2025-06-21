@@ -1,15 +1,18 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 import { FaUser, FaCalendarAlt, FaBullhorn } from 'react-icons/fa';
 import { MdOutlineEventAvailable } from 'react-icons/md';
 import './Home.css';
 
 export default function Home() {
+  const navigate = useNavigate();
+
   return (
     <div className="home-container">
       <header className="home-header">
         <div className="home-logo">
           <img
-            src='./church-icon.png'
+            src="./church-icon.png"
             alt="Igreja"
             className="logo-image"
           />
@@ -28,22 +31,22 @@ export default function Home() {
 
       <section className="home-buttons">
         <div className="button-grid">
-          <div className="grid-button">
+          <button className="grid-button" onClick={() => navigate('/membros')}>
             <FaUser size={28} />
             <span>Área de membros</span>
-          </div>
-          <div className="grid-button">
+          </button>
+          <button className="grid-button" onClick={() => navigate('/escalas')}>
             <FaCalendarAlt size={28} />
             <span>Escalas</span>
-          </div>
-          <div className="grid-button">
+          </button>
+          <button className="grid-button" onClick={() => navigate('/avisos')}>
             <FaBullhorn size={28} />
             <span>Avisos</span>
-          </div>
-          <div className="grid-button">
+          </button>
+          <button className="grid-button" onClick={() => navigate('/eventos')}>
             <MdOutlineEventAvailable size={28} />
             <span>Eventos</span>
-          </div>
+          </button>
         </div>
       </section>
     </div>

@@ -1,0 +1,67 @@
+.membros-container {
+  background: linear-gradient(to bottom, #0e2a3b, #152f40);
+  min-height: 100vh;
+  color: #e8e8e8;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+.membros-header {
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  border-bottom: 1px solid #3a5568; /* linha sutil */
+  margin-bottom: 20px;
+  background: linear-gradient(to bottom, #3a5568, #152f40);
+  box-shadow: none;
+  border-radius: 0;
+}
+
+
+.membros-back-button {
+  font-size: 1.4rem;
+  margin-right: 15px;
+  cursor: pointer;
+  background: none;
+  border: none;
+  color: #e8e8e8;
+  display: flex;
+  align-items: center;
+  transition: color 0.2s ease;
+}
+
+.membros-back-button:hover {
+  color: #ffffff;
+}
+
+.membros-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+  color: #ffffff;
+}
+
+.membros-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 0 20px;
+}
+
+.membros-item {
+  background-color: #1e3a4c;
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  transition: transform 0.2s;
+}
+
+.membros-item:hover {
+  transform: scale(1.02);
+}
+
+.membros-item h3 {
+  margin: 0;
+  font-size: 14px;
+  color: #d1d5db;
+}
