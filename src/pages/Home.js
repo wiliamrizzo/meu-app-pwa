@@ -9,7 +9,7 @@ export default function Home() {
       <header className="home-header">
         <div className="home-logo">
           <img
-            src="/church-icon.png"
+            src='./church-icon.png'
             alt="Igreja"
             className="logo-image"
           />
@@ -20,7 +20,7 @@ export default function Home() {
 
       <section className="home-banner">
         <img
-          src="/culto-banner.jpg"
+          src="./culto-banner.jpg"
           alt="Cultos"
           className="banner-image"
         />
