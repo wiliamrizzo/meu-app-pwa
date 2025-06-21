@@ -29,7 +29,8 @@ export default function App() {
         backgroundColor: '#f8f9fa',
         display: 'flex',
         justifyContent: 'space-around',
-        alignItems: 'center',
+        padding: '10px 0',
+        alignItems: 'normal',
         borderTop: '1px solid #ccc',
         boxShadow: '0 -2px 5px rgba(0,0,0,0.1)'
       }}>
