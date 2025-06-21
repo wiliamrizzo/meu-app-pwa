@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route, NavLink } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, NavLink } from 'react-router-dom';
 import { FaHome, FaUser, FaInfoCircle, FaCog } from 'react-icons/fa';
 import Home from './pages/Home';
 import Profile from './pages/Profile';
