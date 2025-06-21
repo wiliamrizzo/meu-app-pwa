@@ -1,10 +1,11 @@
 import React from 'react';
 import { HashRouter as Router, Routes, Route, NavLink } from 'react-router-dom';
-import { FaHome, FaUser, FaInfoCircle, FaCog } from 'react-icons/fa';
+import { FaHome, FaUser, FaInfoCircle, FaCog, FaCalendarAlt, FaBullhorn } from 'react-icons/fa';
+import { MdOutlineEventAvailable } from 'react-icons/md';
 import Home from './pages/Home';
-import Profile from './pages/Profile';
-import About from './pages/About';
-import Settings from './pages/Settings';
+import Escalas from './pages/Escalas';
+import Avisos from './pages/Avisos';
+import Membros from './pages/Membros';
 
 export default function App() {
   return (
@@ -12,9 +13,9 @@ export default function App() {
       <div style={{ paddingBottom: '70px' }}>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/profile" element={<Profile />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/settings" element={<Settings />} />
+          <Route path="/escalas" element={<Escalas />} />
+          <Route path="/avisos" element={<Avisos />} />
+          <Route path="/membros" element={<Membros />} />
         </Routes>
       </div>
 
@@ -35,28 +36,28 @@ export default function App() {
           to="/"
           style={({ isActive }) => ({ color: isActive ? '#000' : '#ccc' })}
         >
-          <FaHome size={24} />
+          <FaHome size={26} />
         </NavLink>
 
         <NavLink
-          to="/profile"
+          to="/escalas"
           style={({ isActive }) => ({ color: isActive ? '#000' : '#ccc' })}
         >
-          <FaUser size={24} />
+          <MdOutlineEventAvailable size={26} />
         </NavLink>
 
         <NavLink
-          to="/about"
+          to="/avisos"
           style={({ isActive }) => ({ color: isActive ? '#000' : '#ccc' })}
         >
-          <FaInfoCircle size={24} />
+          <FaBullhorn size={26} />
         </NavLink>
 
         <NavLink
-          to="/settings"
+          to="/membros"
           style={({ isActive }) => ({ color: isActive ? '#000' : '#ccc' })}
         >
-          <FaCog size={24} />
+          <FaUser size={26} />
         </NavLink>
       </nav>
     </Router>

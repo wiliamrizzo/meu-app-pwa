@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaUser, FaCalendarAlt, FaBullhorn } from 'react-icons/fa';
 import { MdOutlineEventAvailable } from 'react-icons/md';
-import './Home.css'; // para estilização separada
+import './Home.css';
 
 export default function Home() {
   return (
@@ -9,7 +9,7 @@ export default function Home() {
       <header className="home-header">
         <div className="home-logo">
           <img
-            src="/church-icon.png" // use um ícone simples ou substitua por svg
+            src="/church-icon.png"
             alt="Igreja"
             className="logo-image"
           />
@@ -20,15 +20,10 @@ export default function Home() {
 
       <section className="home-banner">
         <img
-          src="/culto-banner.jpg" // substitua por sua imagem real
+          src="/culto-banner.jpg"
           alt="Cultos"
           className="banner-image"
         />
-        {/* <div className="banner-text">
-          <h3>Cultos</h3>
-          <p>Domingo 09:00 | 18:00</p>
-          <p>Quarta-feira 19:30</p>
-        </div> */}
       </section>
 
       <section className="home-buttons">
