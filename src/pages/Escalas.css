@@ -9,14 +9,16 @@
 .escalas-header {
   display: flex;
   align-items: center;
+  position: sticky;
+  /* fixa no topo ao fazer scroll */
+  top: 0;
+  z-index: 100;
   padding: 15px;
-  border-bottom: 1px solid #3a5568; /* linha sutil */
-  margin-bottom: 20px;
   background: linear-gradient(to bottom, #3a5568, #152f40);
-  box-shadow: none;
+  border-bottom: 1px solid #3a5568;
+  margin-bottom: 20px;
   border-radius: 0;
 }
-
 
 .escalas-back-button {
   font-size: 1.4rem;
@@ -52,7 +54,7 @@
   background-color: #1e3a4c;
   border-radius: 12px;
   padding: 16px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
   transition: transform 0.2s;
 }
 

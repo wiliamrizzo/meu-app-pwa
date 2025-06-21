@@ -4,21 +4,22 @@
     color: #e8e8e8;
     box-sizing: border-box;
     font-family: Arial, sans-serif;
-  }
-  
-  .avisos-header {
+}
+
+.avisos-header {
     display: flex;
     align-items: center;
-    padding: 15px;
-    border-bottom: 1px solid #3a5568; /* linha sutil */
-    margin-bottom: 20px;
+    position: sticky;
+    /* fixo no topo */
+    top: 0;
+    z-index: 100;
     background: linear-gradient(to bottom, #3a5568, #152f40);
-    box-shadow: none;
-    border-radius: 0;
-  }
-  
-  
-  .avisos-back-button {
+    padding: 15px;
+    border-bottom: 1px solid #3a5568;
+    margin-bottom: 20px;
+}
+
+.avisos-back-button {
     font-size: 1.4rem;
     margin-right: 15px;
     cursor: pointer;
@@ -28,41 +29,40 @@
     display: flex;
     align-items: center;
     transition: color 0.2s ease;
-  }
-  
-  .avisos-back-button:hover {
+}
+
+.avisos-back-button:hover {
     color: #ffffff;
-  }
-  
-  .avisos-title {
+}
+
+.avisos-title {
     font-size: 18px;
     font-weight: bold;
     margin: 0;
     color: #ffffff;
-  }
-  
-  .avisos-list {
+}
+
+.avisos-list {
     display: flex;
     flex-direction: column;
     gap: 12px;
     padding: 0 20px;
-  }
-  
-  .avisos-item {
+}
+
+.avisos-item {
     background-color: #1e3a4c;
     border-radius: 12px;
     padding: 16px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
     transition: transform 0.2s;
-  }
-  
-  .avisos-item:hover {
+}
+
+.avisos-item:hover {
     transform: scale(1.02);
-  }
-  
-  .avisos-item h3 {
+}
+
+.avisos-item h3 {
     margin: 0;
     font-size: 14px;
     color: #d1d5db;
-  }
-  
+}
