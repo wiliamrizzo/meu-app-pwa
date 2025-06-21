@@ -1,6 +1,6 @@
 import React from 'react';
 import { HashRouter as Router, Routes, Route, NavLink } from 'react-router-dom';
-import { FaHome, FaUser, FaInfoCircle, FaCog, FaCalendarAlt, FaBullhorn } from 'react-icons/fa';
+import { FaHome, FaUser, FaBullhorn } from 'react-icons/fa';
 import { MdOutlineEventAvailable } from 'react-icons/md';
 import Home from './pages/Home';
 import Escalas from './pages/Escalas';
