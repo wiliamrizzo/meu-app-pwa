@@ -1,4 +1,5 @@
 .avisos-container {
+    padding-top: env(safe-area-inset-top);
     background: linear-gradient(to bottom, #0e2a3b, #152f40);
     min-height: 100vh;
     color: #e8e8e8;
