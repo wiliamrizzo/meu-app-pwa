@@ -17,6 +17,7 @@ export default function Membros() {
           <ArrowLeft size={24} strokeWidth={1.5} />
         </button>
         <h2 className="membros-title">Membros</h2>
+        <div className="placeholder" /> {/* espaço para equilibrar */}
       </header>
     </div>
   );

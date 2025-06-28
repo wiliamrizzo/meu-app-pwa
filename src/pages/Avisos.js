@@ -23,7 +23,7 @@ export default function Avisos() {
           <ArrowLeft size={24} strokeWidth={1.5} />
         </button>
         <h2 className="avisos-title">Avisos</h2>
-        <div className="placeholder" /> {/* espaço à direita, se não tiver nada */}
+        <div className="placeholder" /> {/* espaço para equilibrar */}
       </header>
 
       <main className="avisos-list">

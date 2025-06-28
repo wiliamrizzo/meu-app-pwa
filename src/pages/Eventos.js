@@ -17,6 +17,7 @@ export default function Eventos() {
           <ArrowLeft size={24} strokeWidth={1.5} />
         </button>
         <h2 className="eventos-title">Eventos</h2>
+        <div className="placeholder" /> {/* espaço para equilibrar */}
       </header>
     </div>
   );

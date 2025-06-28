@@ -10,6 +10,7 @@
 .membros-header {
   display: flex;
   align-items: center;
+  justify-content: space-between; /* espalha botão, título e placeholder */
   position: sticky;
   /* fixo no topo */
   top: 0;
@@ -19,19 +20,26 @@
   border-bottom: 1px solid #3a5568;
   margin-bottom: 20px;
 }
-
+  
+.placeholder {
+  width: 40px; /* largura aproximada do botão */
+  margin-left: 15px; /* igual nos dois */
+}
 
 .membros-back-button {
   padding: 0;
   font-size: 1.4rem;
-  margin-right: 15px;
+  margin-right: 15px; /* igual nos dois */
   cursor: pointer;
   background: none;
   border: none;
   color: #e8e8e8;
   display: flex;
   align-items: center;
+  justify-content: center;
   transition: color 0.2s ease;
+  width: 40px; /* fixa largura */
+  height: 24px; /* fixa altura */
 }
 
 .membros-back-button:hover {
