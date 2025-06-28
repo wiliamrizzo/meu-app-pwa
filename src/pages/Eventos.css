@@ -21,6 +21,7 @@
 }
 
 .eventos-back-button {
+  padding: 0;
   font-size: 1.4rem;
   margin-right: 15px;
   cursor: pointer;
