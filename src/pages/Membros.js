@@ -1,6 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import { FaArrowLeft } from 'react-icons/fa'; // Ícone de voltar
+import { ArrowLeft } from 'lucide-react';
 import './Membros.css';
 
 export default function Membros() {
@@ -14,7 +14,7 @@ export default function Membros() {
           className="membros-back-button"
           aria-label="Voltar para Home"
         >
-          <FaArrowLeft />
+          <ArrowLeft size={24} strokeWidth={1.5} />
         </button>
         <h2 className="membros-title">Membros</h2>
       </header>

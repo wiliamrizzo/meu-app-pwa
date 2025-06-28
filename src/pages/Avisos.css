@@ -11,13 +11,14 @@
     display: flex;
     align-items: center;
     position: sticky;
-    /* fixo no topo */
+    /* fixa no topo ao fazer scroll */
     top: 0;
     z-index: 100;
-    background: linear-gradient(to bottom, #3a5568, #152f40);
     padding: 15px;
+    background: linear-gradient(to bottom, #3a5568, #152f40);
     border-bottom: 1px solid #3a5568;
     margin-bottom: 20px;
+    border-radius: 0;
 }
 
 .avisos-back-button {
@@ -38,9 +39,14 @@
 
 .avisos-title {
     font-size: 18px;
-    font-weight: bold;
+    font-weight: normal;
     margin: 0;
     color: #ffffff;
+}
+
+.placeholder {
+    width: 40px;
+    /* mesmo tamanho do botão de voltar */
 }
 
 .avisos-list {

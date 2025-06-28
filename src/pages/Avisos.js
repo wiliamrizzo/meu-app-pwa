@@ -1,6 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import { FaArrowLeft } from 'react-icons/fa'; // Ícone de voltar
+import { ArrowLeft } from 'lucide-react';
 import './Avisos.css';
 
 export default function Avisos() {
@@ -20,9 +20,10 @@ export default function Avisos() {
           className="avisos-back-button"
           aria-label="Voltar para Home"
         >
-          <FaArrowLeft />
+          <ArrowLeft size={24} strokeWidth={1.5} />
         </button>
         <h2 className="avisos-title">Avisos</h2>
+        <div className="placeholder" /> {/* espaço à direita, se não tiver nada */}
       </header>
 
       <main className="avisos-list">

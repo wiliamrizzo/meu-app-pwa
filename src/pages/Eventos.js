@@ -1,6 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import { FaArrowLeft } from 'react-icons/fa'; // Ícone de voltar
+import { ArrowLeft } from 'lucide-react';
 import './Eventos.css';
 
 export default function Eventos() {
@@ -14,7 +14,7 @@ export default function Eventos() {
           className="eventos-back-button"
           aria-label="Voltar para Home"
         >
-          <FaArrowLeft />
+          <ArrowLeft size={24} strokeWidth={1.5} />
         </button>
         <h2 className="eventos-title">Eventos</h2>
       </header>

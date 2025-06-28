@@ -1,6 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import { FaArrowLeft } from 'react-icons/fa'; // Ícone de voltar
+import { ArrowLeft } from 'lucide-react';
 import './Escalas.css';
 
 export default function Escalas() {
@@ -14,7 +14,7 @@ export default function Escalas() {
           className="escalas-back-button"
           aria-label="Voltar para Home"
         >
-          <FaArrowLeft />
+          <ArrowLeft size={24} strokeWidth={1.5} />
         </button>
         <h2 className="escalas-title">Escalas</h2>
       </header>
