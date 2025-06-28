@@ -17,6 +17,8 @@ export default function Escalas() {
           <ArrowLeft size={24} strokeWidth={1.5} />
         </button>
         <h2 className="escalas-title">Escalas</h2>
+        {/* Placeholder vazio que ocupa o espaço do botão */}
+        <div className="placeholder" />
       </header>
     </div>
   );
