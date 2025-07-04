@@ -7,6 +7,8 @@ import Escalas from './pages/Escalas';
 import Avisos from './pages/Avisos';
 import Membros from './pages/Membros';
 import Eventos from './pages/Eventos';
+import Subcategorias from './pages/Subcategorias';
+import Artigos from './pages/Artigos';
 
 export default function App() {
   return (
@@ -18,6 +20,8 @@ export default function App() {
           <Route path="/avisos" element={<Avisos />} />
           <Route path="/membros" element={<Membros />} />
           <Route path="/eventos" element={<Eventos />} />
+          <Route path="/escalas/subcategorias" element={<Subcategorias />} />
+          <Route path="/escalas/artigos" element={<Artigos />} />
         </Routes>
       </div>
 

@@ -3,47 +3,22 @@
   background: linear-gradient(to bottom, #0e2a3b, #152f40);
   min-height: 100vh;
   color: #e8e8e8;
-  box-sizing: border-box;
   font-family: Arial, sans-serif;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
 }
 
 .escalas-header {
   display: flex;
   align-items: center;
-  justify-content: space-between; /* espalha botão, título e placeholder */
+  justify-content: space-between;
   position: sticky;
   top: 0;
   z-index: 100;
   padding: 15px;
   background: linear-gradient(to bottom, #3a5568, #152f40);
   border-bottom: 1px solid #3a5568;
-  margin-bottom: 20px;
-  border-radius: 0;
-}
-
-.placeholder {
-  width: 40px; /* largura aproximada do botão */
-  margin-left: 15px; /* igual nos dois */
-}
-
-.escalas-back-button {
-  padding: 0;
-  font-size: 1.4rem;
-  margin-right: 15px; /* igual nos dois */
-  cursor: pointer;
-  background: none;
-  border: none;
-  color: #e8e8e8;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: color 0.2s ease;
-  width: 40px; /* fixa largura */
-  height: 24px; /* fixa altura */
-}
-
-.escalas-back-button:hover {
-  color: #ffffff;
 }
 
 .escalas-title {
@@ -52,17 +27,38 @@
   margin: 0;
   color: #ffffff;
   text-align: center;
-  flex-grow: 0;
-  flex-shrink: 0;
-  /* Se quiser, pode limitar largura máxima pra evitar que estoure */
-  max-width: 200px;
+  flex-grow: 1;
+}
+
+.escalas-back-button {
+  background: none;
+  border: none;
+  color: #e8e8e8;
+  cursor: pointer;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 24px;
+  transition: color 0.2s ease;
+}
+
+.escalas-back-button:hover {
+  color: #ffffff;
+}
+
+.placeholder {
+  width: 40px;
+  height: 24px;
 }
 
 .escalas-list {
   display: flex;
   flex-direction: column;
   gap: 12px;
-  padding: 0 20px;
+  padding: 0 20px 20px;
+  flex-grow: 1;
 }
 
 .escalas-item {
@@ -71,6 +67,7 @@
   padding: 16px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
   transition: transform 0.2s;
+  cursor: pointer;
 }
 
 .escalas-item:hover {

@@ -1,0 +1,3115 @@
+{
+    "data": [
+      {
+        "type": "category-dto",
+        "attributes": {
+          "id": "3156672555",
+          "title": "Informações importantes",
+          "subcategories": [
+            {
+              "id": "3350004010",
+              "title": "Avisos importantes",
+              "articles": [
+                {
+                  "id": "3448733703",
+                  "title": "A Neon participa do Familhão?"
+                }
+              ]
+            },
+            {
+              "id": "3369992240",
+              "title": "Novo aplicativo Neon",
+              "articles": [
+                {
+                  "id": "3370221579",
+                  "title": "Meu aplicativo mudou e agora?"
+                }
+              ]
+            },
+            {
+              "id": "2406253179",
+              "title": "Informações",
+              "articles": [
+                {
+                  "id": "3543040027",
+                  "title": "Como altero a senha de 4 dígitos do cartão?"
+                },
+                {
+                  "id": "3542351912",
+                  "title": "Por que preciso alterar a senha de 4 dígitos de forma recorrente?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "category-dto",
+        "attributes": {
+          "id": "2831745221",
+          "title": "Minha Conta",
+          "subcategories": [
+            {
+              "id": "2830107948",
+              "title": "Tipos de conta",
+              "articles": [
+                {
+                  "id": "2406580563",
+                  "title": "O que é a conta Neon?"
+                },
+                {
+                  "id": "2533654579",
+                  "title": "A Conta Neon é Corrente ou Poupança?"
+                },
+                {
+                  "id": "2406547771",
+                  "title": "É possível abrir uma conta conjunta?"
+                },
+                {
+                  "id": "2406547491",
+                  "title": "É seguro ter uma conta na Neon?"
+                }
+              ]
+            },
+            {
+              "id": "2380267812",
+              "title": "Abertura e ativação da conta",
+              "articles": [
+                {
+                  "id": "2658304166",
+                  "title": "Como abro uma conta?"
+                },
+                {
+                  "id": "2657125090",
+                  "title": "Como faço o cadastro?"
+                },
+                {
+                  "id": "2663743523",
+                  "title": "Como mando a foto dos meus documentos?"
+                },
+                {
+                  "id": "2657682142",
+                  "title": "Como resolvo problemas com o cadastro?"
+                },
+                {
+                  "id": "2657648902",
+                  "title": "Como ativo a minha conta?"
+                }
+              ]
+            },
+            {
+              "id": "2406122263",
+              "title": "Acesso",
+              "articles": [
+                {
+                  "id": "2406154957",
+                  "title": "Esqueci a senha para entrar no aplicativo Neon. O que faço?"
+                },
+                {
+                  "id": "2406253143",
+                  "title": "O aplicativo Neon funciona em quais aparelhos?"
+                },
+                {
+                  "id": "2405402080",
+                  "title": "Como faço para cadastrar minha digital para acessar o aplicativo?"
+                },
+                {
+                  "id": "3489103967",
+                  "title": "Troquei de celular. Como faço para acessar minha conta?"
+                },
+                {
+                  "id": "2406023917",
+                  "title": "Como faço para acessar o aplicativo com o Face ID?"
+                },
+                {
+                  "id": "2405533082",
+                  "title": "Ao tentar logar apareceu uma mensagem dizendo que minha conta foi acessada de um novo aparelho, mas não fui eu. O que faço?"
+                },
+                {
+                  "id": "2405402106",
+                  "title": "Aparece um erro quando tento acessar o aplicativo. O que faço?"
+                },
+                {
+                  "id": "2406253150",
+                  "title": "Não estou conseguindo tirar a foto do rosto. O que faço?"
+                },
+                {
+                  "id": "2406220473",
+                  "title": "Não consigo acessar o aplicativo, a mensagem diz para usar um aparelho desbloqueado. O que faço?"
+                },
+                {
+                  "id": "2904064001",
+                  "title": "Como criar uma senha de acesso segura?"
+                },
+                {
+                  "id": "2903998497",
+                  "title": "O que significa o erro \"código de segurança inválido\"?"
+                },
+                {
+                  "id": "3834282016",
+                  "title": "Por que meu acesso está bloqueado e preciso enviar meu documento?"
+                }
+              ]
+            },
+            {
+              "id": "2831253862",
+              "title": "Gerenciar conta",
+              "articles": [
+                {
+                  "id": "2405402179",
+                  "title": "Como peço os documentos da minha conta?"
+                },
+                {
+                  "id": "2405402144",
+                  "title": "Como ativo e desativo as notificações do aplicativo?"
+                },
+                {
+                  "id": "2406318771",
+                  "title": "Onde posso conferir e compartilhar os dados da minha conta?"
+                },
+                {
+                  "id": "2406286000",
+                  "title": "Onde posso acessar as tarifas da minha conta?"
+                },
+                {
+                  "id": "2405533140",
+                  "title": "Onde verifico meus limites? Posso aumentá-los?"
+                },
+                {
+                  "id": "2406089589",
+                  "title": "Como acesso o Informe de Rendimentos da minha conta Neon?"
+                },
+                {
+                  "id": "2405534496",
+                  "title": "Encerrei minha conta, mas me arrependi. Posso reativar?"
+                },
+                {
+                  "id": "2406645954",
+                  "title": "A pessoa que tinha conta na Neon faleceu, como comunico vocês?"
+                },
+                {
+                  "id": "3424321550",
+                  "title": "Como saber se uma pessoa que faleceu tinha conta ou dívidas na Neon?"
+                },
+                {
+                  "id": "3424944131",
+                  "title": "Como acessar os dados da conta de uma pessoa falecida?"
+                },
+                {
+                  "id": "3424813058",
+                  "title": "Como receber valores da conta de uma pessoa falecida?"
+                },
+                {
+                  "id": "3425075201",
+                  "title": "Sou advogado(a) de uma pessoa falecida com conta na Neon. Como posso representar as pessoas herdeiras?"
+                },
+                {
+                  "id": "2406547484",
+                  "title": "Em que lugar posso acessar os Termos de Uso da conta?"
+                },
+                {
+                  "id": "2406482380",
+                  "title": "O que é o bloqueio judicial?"
+                },
+                {
+                  "id": "2406711504",
+                  "title": "Como transferir o FGTS para minha conta Neon?"
+                },
+                {
+                  "id": "2406613316",
+                  "title": "Como faço para encerrar a conta?"
+                },
+                {
+                  "id": "3070689353",
+                  "title": "O que é a tarifa de serviço cartão débito?"
+                },
+                {
+                  "id": "3189932338",
+                  "title": "Como crio ou altero a senha de 4 dígitos para movimentações?"
+                },
+                {
+                  "id": "3190816823",
+                  "title": "Errei a senha de 4 dígitos algumas vezes e não consigo movimentar a conta. O que faço?"
+                }
+              ]
+            },
+            {
+              "id": "2491548036",
+              "title": "Dados pessoais",
+              "articles": [
+                {
+                  "id": "2406122298",
+                  "title": "Como altero meu e-mail?"
+                },
+                {
+                  "id": "2406318703",
+                  "title": "Como altero meu nome de cadastro?"
+                },
+                {
+                  "id": "2405533093",
+                  "title": "Como altero meu número de celular?"
+                },
+                {
+                  "id": "2536308899",
+                  "title": "Posso usar meu nome social no meu cartão físico?"
+                },
+                {
+                  "id": "2406482346",
+                  "title": "O que é a Lei Geral de Proteção de Dados (LGPD)?"
+                }
+              ]
+            },
+            {
+              "id": "2831679683",
+              "title": "Saldo e Extrato",
+              "articles": [
+                {
+                  "id": "2406122778",
+                  "title": "Ao fazer uma transação, recebi a mensagem de que não tenho saldo, mas tenho. O que faço?"
+                },
+                {
+                  "id": "2406024026",
+                  "title": "Como emito um extrato?"
+                },
+                {
+                  "id": "2405533926",
+                  "title": "Como faço para mudar a categoria de uma transação?"
+                },
+                {
+                  "id": "2405991911",
+                  "title": "Onde posso verificar uma transação que fiz? E o comprovante?"
+                },
+                {
+                  "id": "4342644778",
+                  "title": "Quais transações de débito podem ser parceladas e convertidas para crédito?"
+                }
+              ]
+            },
+            {
+              "id": "2406449392",
+              "title": "Saques",
+              "articles": [
+                {
+                  "id": "2406514913",
+                  "title": "Qual é o limite para saques?"
+                },
+                {
+                  "id": "2406122802",
+                  "title": "Tentei fazer o saque, mas o valor não saiu. O que faço?"
+                },
+                {
+                  "id": "2406482209",
+                  "title": "Qual é o valor da tarifa de saque?"
+                },
+                {
+                  "id": "2406449410",
+                  "title": "Como e onde posso fazer um saque?"
+                }
+              ]
+            },
+            {
+              "id": "2809463142",
+              "title": "Programa de Indicações",
+              "articles": [
+                {
+                  "id": "2809659426",
+                  "title": "O que é o programa Indicações?"
+                },
+                {
+                  "id": "3630366784",
+                  "title": "Como resgatar e usar a recompensa do Programa de Indicações?"
+                },
+                {
+                  "id": "2809528653",
+                  "title": "Recebi um convite. Como usar?"
+                }
+              ]
+            },
+            {
+              "id": "2406613166",
+              "title": "Open Finance",
+              "articles": [
+                {
+                  "id": "2406613186",
+                  "title": "O que é Open finance e como funciona na Neon?"
+                },
+                {
+                  "id": "4023451665",
+                  "title": "Como compartilho meus dados de outros bancos com a Neon?"
+                },
+                {
+                  "id": "4023255064",
+                  "title": "Como faço para deixar de compartilhar meus dados no Open Finance?"
+                },
+                {
+                  "id": "4023812116",
+                  "title": "Quais são as vantagens de compartilhar meus dados com a Neon?"
+                },
+                {
+                  "id": "4023910426",
+                  "title": "O Open Finance é seguro?"
+                },
+                {
+                  "id": "4023418902",
+                  "title": "A Neon está na lista de iniciadores de pagamento Pix?"
+                },
+                {
+                  "id": "4023549986",
+                  "title": "Como depositar ou transferir via Pix pelo Open Finance?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "category-dto",
+        "attributes": {
+          "id": "2831745279",
+          "title": "Cartões",
+          "subcategories": [
+            {
+              "id": "2831745286",
+              "title": "Tipos de Cartão",
+              "articles": [
+                {
+                  "id": "2898657309",
+                  "title": "Quais tipos de cartão a Neon tem?"
+                },
+                {
+                  "id": "2624127001",
+                  "title": "A proposta de cartão de crédito no site da Serasa E-cred é verdadeira?"
+                }
+              ]
+            },
+            {
+              "id": "2830795766",
+              "title": "Pedido de cartão",
+              "articles": [
+                {
+                  "id": "2897903829",
+                  "title": "Como pedir uma nova via dos cartões?"
+                },
+                {
+                  "id": "2406089064",
+                  "title": "Como faço para pedir o cartão de crédito?"
+                },
+                {
+                  "id": "2893545882",
+                  "title": "Meu pedido de cartão de crédito foi reprovado. O que faço?"
+                },
+                {
+                  "id": "2897543393",
+                  "title": "Como consigo meu cartão de débito?"
+                },
+                {
+                  "id": "2724954215",
+                  "title": "Como eu peço e desbloqueio meu cartão físico?"
+                },
+                {
+                  "id": "2725183524",
+                  "title": "Como eu crio e desbloqueio meu cartão virtual?"
+                },
+                {
+                  "id": "2897838314",
+                  "title": "Posso ter mais de uma via dos meus cartões?"
+                },
+                {
+                  "id": "2405991524",
+                  "title": "Danifiquei/quebrei meu cartão físico. O que faço?"
+                }
+              ]
+            },
+            {
+              "id": "2380496938",
+              "title": "Entrega do cartão",
+              "articles": [
+                {
+                  "id": "2725347399",
+                  "title": "Como é feita a entrega do meu cartão?"
+                },
+                {
+                  "id": "2406187268",
+                  "title": "Onde posso acompanhar a entrega?"
+                },
+                {
+                  "id": "2406219894",
+                  "title": "Como faço para alterar meu endereço de entrega?"
+                },
+                {
+                  "id": "2896823380",
+                  "title": "Estou com problemas na entrega do meu cartão. O que posso fazer?"
+                }
+              ]
+            },
+            {
+              "id": "2831778088",
+              "title": "Compras",
+              "articles": [
+                {
+                  "id": "3088515274",
+                  "title": "O que é o estorno de compra feita no cartão e quando posso pedir?"
+                },
+                {
+                  "id": "3089268737",
+                  "title": "Como sei que o estorno da minha compra foi feito?"
+                },
+                {
+                  "id": "3088253103",
+                  "title": "Qual a diferença entre estorno e contestação?"
+                },
+                {
+                  "id": "3088220320",
+                  "title": "Recebi o estorno de uma compra parcelada, mas continua cobrando na fatura. O que faço?"
+                },
+                {
+                  "id": "2406122451",
+                  "title": "Como e onde consigo usar meu cartão por aproximação?"
+                },
+                {
+                  "id": "2405533353",
+                  "title": "Fiz uma compra física que não foi aprovada no terminal (na maquininha). O que faço?"
+                },
+                {
+                  "id": "2406089821",
+                  "title": "Não consigo comprar por aproximação. O que faço?"
+                },
+                {
+                  "id": "2406089814",
+                  "title": "Fazer compras com o cartão por aproximação é seguro?"
+                },
+                {
+                  "id": "2924020159",
+                  "title": "Como e onde posso fazer compras com meus cartões?"
+                },
+                {
+                  "id": "4340252697",
+                  "title": "Eu posso parcelar uma compra feita no cartão de débito?"
+                },
+                {
+                  "id": "2759852271",
+                  "title": "Minha compra foi recusada, e agora?"
+                },
+                {
+                  "id": "2923528365",
+                  "title": "O que é uma compra pendente no cartão?"
+                },
+                {
+                  "id": "2923790465",
+                  "title": "Minha compra foi estornada. O que faço?"
+                },
+                {
+                  "id": "2924118173",
+                  "title": "Posso fazer compras internacionais com meus cartões?"
+                },
+                {
+                  "id": "2923593919",
+                  "title": "Onde aparecem as compras feitas com os cartões?"
+                },
+                {
+                  "id": "2923659564",
+                  "title": "Por que a data da minha compra mudou?"
+                },
+                {
+                  "id": "2406155258",
+                  "title": "Posso parcelar compras com o cartão virtual?"
+                },
+                {
+                  "id": "3616669708",
+                  "title": "Como antecipar uma compra parcelada?"
+                },
+                {
+                  "id": "2405533457",
+                  "title": "Por que minha compra virtual não aparece no aplicativo?"
+                },
+                {
+                  "id": "2687828129",
+                  "title": "O que é e como funciona a contestação de compras?"
+                },
+                {
+                  "id": "2687467681",
+                  "title": "Como faço para contestar uma compra física que eu não fiz?"
+                },
+                {
+                  "id": "2688155762",
+                  "title": "Não reconheço uma compra feita com meu cartão virtual. O que faço?"
+                },
+                {
+                  "id": "2687664337",
+                  "title": "Contestei uma compra e ainda não tive resposta. O que faço?"
+                },
+                {
+                  "id": "2687828154",
+                  "title": "Contestei uma compra através do aplicativo e foi recusada. O que faço?"
+                },
+                {
+                  "id": "2687271099",
+                  "title": "Fiz uma compra e tive problema com o estabelecimento. E agora?"
+                },
+                {
+                  "id": "3198320943",
+                  "title": "Quais evidências devo encaminhar em caso de problema com o estabelecimento?"
+                },
+                {
+                  "id": "3618766890",
+                  "title": "Apareceu um pedido de autorização por código no SMS na minha compra com o cartão virtual. Está correto?"
+                }
+              ]
+            },
+            {
+              "id": "2832105672",
+              "title": "Configurações",
+              "articles": [
+                {
+                  "id": "2899444023",
+                  "title": "Como crio ou altero a senha de 4 dígitos do cartão?"
+                },
+                {
+                  "id": "2406318200",
+                  "title": "Como ativo/desativo o débito automático no pagamento da fatura?"
+                },
+                {
+                  "id": "2406252734",
+                  "title": "Quais são as taxas do cartão de crédito?"
+                },
+                {
+                  "id": "2405533394",
+                  "title": "Posso bloquear os pagamentos por aproximação (contactless)?"
+                },
+                {
+                  "id": "2406089807",
+                  "title": "Errei a senha de 4 dígitos algumas vezes e meu cartão foi bloqueado. O que faço?"
+                },
+                {
+                  "id": "2899575116",
+                  "title": "Como posso acessar o número dos meus cartões?"
+                },
+                {
+                  "id": "2899673320",
+                  "title": "O cartão Neon é compatível com os serviços de pagamento digitais?"
+                },
+                {
+                  "id": "2899706164",
+                  "title": "Como cadastro/descadastro o cartão virtual em sites e aplicativos?"
+                },
+                {
+                  "id": "2406482371",
+                  "title": "Como bloquear temporariamente meus cartões?"
+                },
+                {
+                  "id": "2406023720",
+                  "title": "Como faço para cancelar o cartão de crédito?"
+                },
+                {
+                  "id": "2893972082",
+                  "title": "Como acesso meu contrato de cartão de crédito?"
+                }
+              ]
+            },
+            {
+              "id": "2406318184",
+              "title": "Limites do cartão de crédito",
+              "articles": [
+                {
+                  "id": "2406089105",
+                  "title": "Posso alterar meu limite de crédito?"
+                },
+                {
+                  "id": "2406187462",
+                  "title": "Meu limite de crédito foi reduzido. O que faço?"
+                },
+                {
+                  "id": "2724594940",
+                  "title": "Como funciona o Limite Elástico?"
+                },
+                {
+                  "id": "2406187482",
+                  "title": "Posso sacar meu limite de crédito?"
+                },
+                {
+                  "id": "3077505079",
+                  "title": "Por que meu limite do cartão de crédito está negativo?"
+                },
+                {
+                  "id": "3077439541",
+                  "title": "Quais tarifas consomem meu limite do cartão de crédito?"
+                }
+              ]
+            },
+            {
+              "id": "2832105700",
+              "title": "Fatura",
+              "articles": [
+                {
+                  "id": "2406089162",
+                  "title": "Como faço pra pagar a minha fatura?"
+                },
+                {
+                  "id": "2405532841",
+                  "title": "O que acontece se eu só pagar o mínimo da fatura?"
+                },
+                {
+                  "id": "3324510211",
+                  "title": "Como verifico se minha fatura está em débito automático?"
+                },
+                {
+                  "id": "3324510221",
+                  "title": "Minha fatura está em débito automático, mas ainda não foi feito o pagamento. O que faço?"
+                },
+                {
+                  "id": "4273406062",
+                  "title": "Paguei a fatura duas vezes. O que faço?"
+                },
+                {
+                  "id": "2406318265",
+                  "title": "Como faço para parcelar a minha fatura?"
+                },
+                {
+                  "id": "2745532577",
+                  "title": "Como confirmo que meu parcelamento deu certo?"
+                },
+                {
+                  "id": "3432185896",
+                  "title": "Por que não posso parcelar minha fatura?"
+                },
+                {
+                  "id": "3616538633",
+                  "title": "Como antecipar as parcelas do parcelamento de fatura?"
+                },
+                {
+                  "id": "2781938051",
+                  "title": "O que pode fazer meu parcelamento de fatura ser cancelado?"
+                },
+                {
+                  "id": "3077145021",
+                  "title": "Por que as parcelas do parcelamento de fatura consumiram além do meu limite disponível?"
+                },
+                {
+                  "id": "2406089190",
+                  "title": "Por que entrei no parcelamento automático (compulsório)?"
+                },
+                {
+                  "id": "2406154664",
+                  "title": "O que ocorre quando atraso o pagamento da minha fatura?"
+                },
+                {
+                  "id": "2406252901",
+                  "title": "Meu cartão foi bloqueado por atraso no pagamento da fatura. O que faço?"
+                },
+                {
+                  "id": "2799534381",
+                  "title": "Por que as minhas compras aparecem duplicadas na fatura?"
+                },
+                {
+                  "id": "2687336678",
+                  "title": "Devo pagar a fatura que tem o valor de uma compra contestada?"
+                },
+                {
+                  "id": "2406089137",
+                  "title": "Como altero a data de vencimento da fatura?"
+                },
+                {
+                  "id": "2405532760",
+                  "title": "Como e onde posso acessar minha fatura?"
+                },
+                {
+                  "id": "2406187494",
+                  "title": "Qual é a data de fechamento da minha fatura e o melhor dia para compras?"
+                },
+                {
+                  "id": "2666299797",
+                  "title": "Atrasei o pagamento da fatura e tive um valor descontado da minha conta, e agora?"
+                },
+                {
+                  "id": "2406514975",
+                  "title": "Meu cartão de crédito foi cancelado por atraso no pagamento da fatura. O que faço para tê-lo de volta?"
+                },
+                {
+                  "id": "3709861964",
+                  "title": "A Neon pagou a fatura vencida com o valor do CDB investido, mas recebi uma nova fatura. O que ocorreu?"
+                },
+                {
+                  "id": "3709927489",
+                  "title": "Paguei minha fatura na mesma data em que a Neon resgatou o valor investido em CDB para pagar a fatura em aberto. E agora?"
+                },
+                {
+                  "id": "3062267924",
+                  "title": "O que é o Fatura no azul?"
+                },
+                {
+                  "id": "3062464595",
+                  "title": "Como ativar ou desativar o Fatura no azul?"
+                },
+                {
+                  "id": "3077570588",
+                  "title": "Por que quando minha fatura é paga usando o valor que eu tinha investido meu limite fica negativo?"
+                }
+              ]
+            },
+            {
+              "id": "3772022801",
+              "title": "Dívida do cartão",
+              "articles": [
+                {
+                  "id": "3680403462",
+                  "title": "Meu investimento CDB foi usado para pagar minha dívida automaticamente. O que ocorreu?"
+                },
+                {
+                  "id": "2405992020",
+                  "title": "Quero negociar minha dívida. O que faço?"
+                },
+                {
+                  "id": "2427617319",
+                  "title": "De que formas posso pagar meu acordo?"
+                },
+                {
+                  "id": "3136422078",
+                  "title": "Recebi uma notificação de que meu CPF vai ser negativado, mas já paguei a dívida. O que faço?"
+                },
+                {
+                  "id": "2406482247",
+                  "title": "Já paguei minha dívida, mas meu nome continua negativado. O que faço?"
+                },
+                {
+                  "id": "2406482327",
+                  "title": "Paguei meu acordo, mas no aplicativo continua aparecendo que ainda não foi pago. O que faço?"
+                },
+                {
+                  "id": "2406482297",
+                  "title": "Posso pagar um acordo já vencido?"
+                },
+                {
+                  "id": "3421143042",
+                  "title": "O que é a cessão de dívida de crédito?"
+                },
+                {
+                  "id": "3420946462",
+                  "title": "Recebi um e-mail de que minha dívida foi cedida. O que isso quer dizer?"
+                },
+                {
+                  "id": "3178037250",
+                  "title": "Como renegociar e parcelar as faturas totais do cartão de crédito?"
+                },
+                {
+                  "id": "3354296536",
+                  "title": "Renegociei todas as faturas do meu cartão. Posso antecipar as parcelas?"
+                },
+                {
+                  "id": "3354984554",
+                  "title": "Como é feito o pagamento da renegociação total das faturas do cartão?"
+                },
+                {
+                  "id": "3547856904",
+                  "title": "Eu posso fazer a portabilidade da minha dívida do cartão de crédito?"
+                }
+              ]
+            },
+            {
+              "id": "3211100224",
+              "title": "Poupa Fatura",
+              "articles": [
+                {
+                  "id": "3211133006",
+                  "title": "O que é o Poupa Fatura?"
+                },
+                {
+                  "id": "3364716637",
+                  "title": "Como contrato o Poupa Fatura?"
+                },
+                {
+                  "id": "3210969320",
+                  "title": "Qual o valor do Poupa Fatura?"
+                },
+                {
+                  "id": "3364978832",
+                  "title": "O valor reservado rende ou tem algum benefício financeiro?"
+                },
+                {
+                  "id": "3890249759",
+                  "title": "Como resgato o valor investido no Poupa Fatura?"
+                },
+                {
+                  "id": "3211296823",
+                  "title": "O Poupa Fatura afeta meu limite de crédito?"
+                },
+                {
+                  "id": "3211034850",
+                  "title": "Onde consigo verificar o rendimento do Poupa Fatura?"
+                },
+                {
+                  "id": "3211264021",
+                  "title": "Quero usar o Poupa Fatura para pagar minha fatura. Como faço?"
+                },
+                {
+                  "id": "3211427854",
+                  "title": "Como faço para desativar o Poupa Fatura?"
+                }
+              ]
+            },
+            {
+              "id": "2406253208",
+              "title": "Cashback",
+              "articles": [
+                {
+                  "id": "2406318793",
+                  "title": "O que é o programa Cashback e como contrato?"
+                },
+                {
+                  "id": "2406253254",
+                  "title": "Como faço para resgatar meu Cashback no Programa Cashback Neon?"
+                },
+                {
+                  "id": "2406024120",
+                  "title": "Eu não tinha dinheiro na conta no dia do pagamento do meu programa de Cashback. O que eu faço?"
+                },
+                {
+                  "id": "2674262096",
+                  "title": "Fiz algumas compras no cartão de crédito, mas elas não aparecem no extrato de Cashback. O que aconteceu?"
+                },
+                {
+                  "id": "2673803987",
+                  "title": "Paguei a fatura do cartão em atraso, meu Cashback será cancelado?"
+                },
+                {
+                  "id": "2406187898",
+                  "title": "Preciso declarar o valor recebido no Programa Cashback no meu Imposto de Renda?"
+                },
+                {
+                  "id": "2406220588",
+                  "title": "Quais compras acumulam cashback no meu programa de Cashback Neon?"
+                },
+                {
+                  "id": "2405533242",
+                  "title": "O que significam os status do Programa de Cashback?"
+                },
+                {
+                  "id": "2405533225",
+                  "title": "O que significam os status dos lançamentos no programa Cashback?"
+                },
+                {
+                  "id": "2405402270",
+                  "title": "Quando será cobrada minha mensalidade do programa de Cashback?"
+                },
+                {
+                  "id": "2406155077",
+                  "title": "Tive uma compra estornada, o que acontece com meu saldo de cashback do Programa Cashback?"
+                },
+                {
+                  "id": "2405533232",
+                  "title": "Posso cancelar meu programa de Cashback a qualquer momento?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "category-dto",
+        "attributes": {
+          "id": "2729214077",
+          "title": "Viracrédito",
+          "subcategories": [
+            {
+              "id": "2898690130",
+              "title": "Funcionamento Viracrédito",
+              "articles": [
+                {
+                  "id": "2729017764",
+                  "title": "O que é o Viracrédito?"
+                },
+                {
+                  "id": "2873262216",
+                  "title": "Como invisto usando o Viracrédito para ter o cartão ou aumentar meu limite?"
+                },
+                {
+                  "id": "2872705414",
+                  "title": "Posso resgatar meu dinheiro do Viracrédito a qualquer momento?"
+                },
+                {
+                  "id": "4209410114",
+                  "title": "Posso pagar minha fatura com o Viracrédito?"
+                },
+                {
+                  "id": "3470163990",
+                  "title": "Quanto rende o investimento do Viracrédito?"
+                },
+                {
+                  "id": "2873098471",
+                  "title": "Para onde vai o dinheiro usado para compras no Viracrédito?"
+                },
+                {
+                  "id": "2873000154",
+                  "title": "Como funciona a liquidação se usei o Viracrédito para aumentar meu limite?"
+                },
+                {
+                  "id": "2729672775",
+                  "title": "Se eu colocar ou tirar dinheiro do meu investimento, meu limite de crédito será alterado?"
+                },
+                {
+                  "id": "2873196708",
+                  "title": "O que acontece com o meu Viracrédito se eu não pagar a fatura?"
+                },
+                {
+                  "id": "2728034777",
+                  "title": "Qual é a diferença entre o Viracrédito e um cartão pré-pago?"
+                },
+                {
+                  "id": "3027501129",
+                  "title": "Como funciona o meu limite do Viracrédito?"
+                },
+                {
+                  "id": "3096379396",
+                  "title": "O que é o Limite Extra do Viracrédito?"
+                },
+                {
+                  "id": "3649142835",
+                  "title": "Estou pagando duas vezes ao investir no Viracrédito e utilizar o cartão de crédito?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "category-dto",
+        "attributes": {
+          "id": "3559096359",
+          "title": "Caminho para o Crédito",
+          "subcategories": [
+            {
+              "id": "3559784500",
+              "title": "Sobre o Caminho para o Crédito",
+              "articles": [
+                {
+                  "id": "3899621417",
+                  "title": "O que é o caminho para o crédito?"
+                }
+              ]
+            },
+            {
+              "id": "3899752497",
+              "title": "Caminho para o Crédito no Cartão de crédito",
+              "articles": [
+                {
+                  "id": "3559260255",
+                  "title": "O que é o caminho para o crédito no Cartão de Crédito?"
+                },
+                {
+                  "id": "3559292997",
+                  "title": "Como faço para participar do Caminho para o Crédito no Cartão de Crédito?"
+                }
+              ]
+            },
+            {
+              "id": "3862495251",
+              "title": "Missões Caminho para o Crédito Cartão de Crédito",
+              "articles": [
+                {
+                  "id": "3558998095",
+                  "title": "O que são as missões do caminho para o crédito do cartão de crédito?"
+                },
+                {
+                  "id": "3559555119",
+                  "title": "Quanto tempo eu tenho pra concluir as tarefas e missões?"
+                },
+                {
+                  "id": "3861610536",
+                  "title": "O que acontece quando completo uma missão?"
+                },
+                {
+                  "id": "3559096379",
+                  "title": "O que acontece se eu não completar uma tarefa de uma das missões?"
+                },
+                {
+                  "id": "3558867083",
+                  "title": "Por que preciso passar por uma análise de crédito depois de concluir a missão do mês?"
+                }
+              ]
+            },
+            {
+              "id": "3862364190",
+              "title": "Tarefas Caminho para o Crédito Cartão de Crédito",
+              "articles": [
+                {
+                  "id": "3862331409",
+                  "title": "O que são as tarefas do caminho para o crédito do cartão de crédito?"
+                },
+                {
+                  "id": "3559030907",
+                  "title": "Como funciona a tarefa de investimento?"
+                },
+                {
+                  "id": "3559391332",
+                  "title": "O que acontece se eu resgatar meu investimento antes de completar a missão?"
+                },
+                {
+                  "id": "3559555129",
+                  "title": "Como funciona a tarefa de gasto do cartão de crédito?"
+                },
+                {
+                  "id": "3559653417",
+                  "title": "Fiz uma compra parcelada, mas não completei a tarefa de uso. E agora?"
+                },
+                {
+                  "id": "3559096389",
+                  "title": "Como funciona a tarefa de pagamento de fatura?"
+                },
+                {
+                  "id": "3559882780",
+                  "title": "Se eu não pagar o total da minha fatura, eu perco meu progresso no caminho para o crédito cartão de crédito?"
+                }
+              ]
+            },
+            {
+              "id": "3559424034",
+              "title": "Recompensas Caminho para o Crédito Cartão de Crédito",
+              "articles": [
+                {
+                  "id": "3559784510",
+                  "title": "Quais são as minhas recompensas ao participar do Caminho para o Crédito do cartão de crédito?"
+                },
+                {
+                  "id": "3558932593",
+                  "title": "Quando receberei minha recompensa do caminho para o crédito do cartão de crédito?"
+                },
+                {
+                  "id": "3862724642",
+                  "title": "Quanto tempo leva até eu conquistar o limite extra?"
+                },
+                {
+                  "id": "3559161902",
+                  "title": "Completei uma missão, mas não ganhei nenhuma recompensa. Está certo?"
+                }
+              ]
+            },
+            {
+              "id": "3862724652",
+              "title": "Status Neon Caminho para o Crédito Cartão de Crédito",
+              "articles": [
+                {
+                  "id": "3558899836",
+                  "title": "O que significa meu status Neon no Caminho para o Crédito Cartão de Crédito?"
+                }
+              ]
+            },
+            {
+              "id": "3862888449",
+              "title": "Viracrédito no Caminho para o Crédito Cartão de Crédito",
+              "articles": [
+                {
+                  "id": "3862855692",
+                  "title": "O que é o Viracrédito dentro do caminho para o crédito do cartão de crédito?"
+                },
+                {
+                  "id": "3649765436",
+                  "title": "O Caminho para o Crédito é um cartão pré-pago?"
+                },
+                {
+                  "id": "3649536078",
+                  "title": "Por que usar o Caminho para o Crédito se posso usar o dinheiro para compra à vista?"
+                },
+                {
+                  "id": "3862790147",
+                  "title": "Como funciona o limite do Viracrédito no Caminho para o Crédito do cartão de crédito?"
+                },
+                {
+                  "id": "3753607327",
+                  "title": "Como funciona o limite extra no Caminho para o Crédito do cartão de crédito?"
+                },
+                {
+                  "id": "3558965386",
+                  "title": "Posso pagar a minha fatura com o dinheiro do investimento?"
+                },
+                {
+                  "id": "3559227472",
+                  "title": "Meu dinheiro investido no Viracrédito tem rendimento diário?"
+                }
+              ]
+            },
+            {
+              "id": "3899621454",
+              "title": "Empréstimos no Caminho para o Crédito - Desafio +Grana na Mão",
+              "articles": [
+                {
+                  "id": "3899752532",
+                  "title": "O que é o Desafio +Grana na mão?"
+                },
+                {
+                  "id": "3899457589",
+                  "title": "Como faço para participar do Desafio +Grana na mão?"
+                },
+                {
+                  "id": "3899785260",
+                  "title": "Como funciona a tarefa de contratação do empréstimo?"
+                },
+                {
+                  "id": "3899818035",
+                  "title": "Como funciona a tarefa de pagamento da parcela do empréstimo?"
+                },
+                {
+                  "id": "3899850820",
+                  "title": "O que acontece com meu progresso no Desafio +Grana na mão se eu não pagar a parcela do empréstimo  até a data de vencimento?"
+                },
+                {
+                  "id": "3899752542",
+                  "title": "Quais são as minhas recompensas ao participar do Desafio +Grana na mão?"
+                },
+                {
+                  "id": "3899228265",
+                  "title": "Quando receberei minha recompensa do Desafio +Grana na mão?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "category-dto",
+        "attributes": {
+          "id": "2406482434",
+          "title": "Empréstimo",
+          "subcategories": [
+            {
+              "id": "2830828610",
+              "title": "Tipos de Empréstimo",
+              "articles": [
+                {
+                  "id": "3129213038",
+                  "title": "Quais tipos de empréstimo a Neon oferece?"
+                }
+              ]
+            },
+            {
+              "id": "2405992146",
+              "title": "Pedido de Empréstimo Pessoal",
+              "articles": [
+                {
+                  "id": "2406482465",
+                  "title": "Como peço um Empréstimo?"
+                },
+                {
+                  "id": "2406580318",
+                  "title": "Não tenho uma oferta de empréstimo. E agora?"
+                }
+              ]
+            },
+            {
+              "id": "2784821328",
+              "title": "Configurações do Empréstimo Pessoal",
+              "articles": [
+                {
+                  "id": "2406613029",
+                  "title": "Posso escolher ou alterar o dia de vencimento das parcela do Empréstimo?"
+                },
+                {
+                  "id": "2406547575",
+                  "title": "Como cancelar um Empréstimo?"
+                }
+              ]
+            },
+            {
+              "id": "2405534230",
+              "title": "Pagamento e Parcelamento do Empréstimo Pessoal",
+              "articles": [
+                {
+                  "id": "3780280332",
+                  "title": "Como posso pagar as parcelas do meu Empréstimo?"
+                },
+                {
+                  "id": "2406123056",
+                  "title": "O que acontece se eu atrasar a parcela do Empréstimo?"
+                },
+                {
+                  "id": "2405992245",
+                  "title": "Como adianto as parcelas do Empréstimo?"
+                },
+                {
+                  "id": "2406449656",
+                  "title": "Posso mudar o número de parcelas ao pedir um Empréstimo?"
+                },
+                {
+                  "id": "2405992238",
+                  "title": "Atrasei o pagamento da parcela do meu Empréstimo. Como devo pagar?"
+                },
+                {
+                  "id": "2406613036",
+                  "title": "Como quitar um Empréstimo?"
+                },
+                {
+                  "id": "3116434420",
+                  "title": "Não consigo encontrar meu empréstimo na tela de Empréstimos. O que faço?"
+                },
+                {
+                  "id": "3116663357",
+                  "title": "Paguei duas vezes a mesma parcela, e agora?"
+                },
+                {
+                  "id": "3780378625",
+                  "title": "Como ativar ou desativar o débito automático em Empréstimos?"
+                },
+                {
+                  "id": "3780378635",
+                  "title": "O que acontece com o empréstimo em débito automático se eu não tiver saldo suficiente na conta no dia do vencimento?"
+                },
+                {
+                  "id": "3779788803",
+                  "title": "Posso escolher o dia do débito automático do empréstimo?"
+                },
+                {
+                  "id": "3779559439",
+                  "title": "Existe alguma taxa para usar o débito automático do empréstimo?"
+                },
+                {
+                  "id": "3780018189",
+                  "title": "Como sei se o pagamento do empréstimo foi feito em débito automático?"
+                },
+                {
+                  "id": "3779559449",
+                  "title": "O débito automático do empréstimo inclui parcelas em atraso?"
+                },
+                {
+                  "id": "3779723272",
+                  "title": "Posso antecipar parcelas do empréstimo com débito automático ativo?"
+                },
+                {
+                  "id": "3779854338",
+                  "title": "Posso dar sugestões de melhoria para o débito automático do Empréstimo?"
+                }
+              ]
+            },
+            {
+              "id": "2409889919",
+              "title": "Tarifas do Empréstimo Pessoal",
+              "articles": [
+                {
+                  "id": "2406449676",
+                  "title": "Quais são as tarifas do Empréstimo na Neon?"
+                },
+                {
+                  "id": "2406515163",
+                  "title": "O que são os valores na tela “Custos detalhados” do empréstimo?"
+                },
+                {
+                  "id": "2406482509",
+                  "title": "O que é CET no Empréstimo?"
+                }
+              ]
+            },
+            {
+              "id": "2704965758",
+              "title": "Renegociação do Empréstimo Pessoal",
+              "articles": [
+                {
+                  "id": "2705227835",
+                  "title": "Como renegociar o meu Empréstimo?"
+                },
+                {
+                  "id": "2704114099",
+                  "title": "Por que não tenho mais renegociação de Empréstimo disponível?"
+                },
+                {
+                  "id": "2705293382",
+                  "title": "Fiz minha renegociação do Empréstimo. Em quanto tempo meu nome será limpo?"
+                },
+                {
+                  "id": "2704081716",
+                  "title": "Renegociei o Empréstimo e não consigo acessá-lo. Como faço para pagar?"
+                },
+                {
+                  "id": "3423862817",
+                  "title": "Eu não tinha saldo em conta para pagar a renegociação do empréstimo. O que faço?"
+                },
+                {
+                  "id": "2705195072",
+                  "title": "Por que a negociação do meu Empréstimo foi cancelada?"
+                },
+                {
+                  "id": "3548086273",
+                  "title": "Eu posso fazer a portabilidade da minha dívida do Empréstimo?"
+                },
+                {
+                  "id": "3694886963",
+                  "title": "Posso pagar minha renegociação via Pix?"
+                }
+              ]
+            },
+            {
+              "id": "2784591965",
+              "title": "Documentos do Empréstimo Pessoal",
+              "articles": [
+                {
+                  "id": "2784395392",
+                  "title": "Onde encontro o contrato do meu Empréstimo?"
+                },
+                {
+                  "id": "2562818092",
+                  "title": "Como declaro o Empréstimo no Imposto de Renda?"
+                },
+                {
+                  "id": "2612233231",
+                  "title": "Quando recebo o Termo de Quitação do Empréstimo?"
+                }
+              ]
+            },
+            {
+              "id": "4159602742",
+              "title": "Consignado Neon (Crédito do Trabalhador)",
+              "articles": [
+                {
+                  "id": "4159275032",
+                  "title": "Qual a diferença do Empréstimo Consignado Atual para o Consignado Neon (Crédito do Trabalhador)?"
+                },
+                {
+                  "id": "4159012923",
+                  "title": "O que é o Consignado Neon (Crédito do Trabalhador)?"
+                },
+                {
+                  "id": "4159111187",
+                  "title": "Como peço o Consignado Neon (Crédito do Trabalhador)?"
+                },
+                {
+                  "id": "4159471645",
+                  "title": "Como acompanho a proposta do Consignado Neon (Crédito do Trabalhador)?"
+                },
+                {
+                  "id": "4159438889",
+                  "title": "Como funciona o pagamento da parcela do Consignado Neon (Crédito do Trabalhador)?"
+                },
+                {
+                  "id": "4159438899",
+                  "title": "Como faço para pagar o Consigando Neon (Crédito do Trabalhador) em caso de demissão da empresa?"
+                },
+                {
+                  "id": "4159209511",
+                  "title": "Posso fazer a portabilidade do meu Empréstimo Consignado do Crédito do trabalhador para a Neon?"
+                },
+                {
+                  "id": "4159176749",
+                  "title": "Posso refinanciar meu Consignado Neon (Crédito do Trabalhador)?"
+                },
+                {
+                  "id": "4159438909",
+                  "title": "Como cancelo meu Empréstimo do Consignado Neon (Crédito do Trabalhador)?"
+                },
+                {
+                  "id": "4238049372",
+                  "title": "Posso contratar o Consignado Neon se eu já tiver um empréstimo pessoal na Neon?"
+                },
+                {
+                  "id": "4238114943",
+                  "title": "Quais são as vantagens de trocar meu empréstimo atual pelo Consignado Neon?"
+                },
+                {
+                  "id": "4237623429",
+                  "title": "Quais são as vantagens de trocar minha dívida de Cartão de Crédito há mais de 95 dias em atraso pelo Consignado Neon?"
+                },
+                {
+                  "id": "4237688913",
+                  "title": "O que acontece com meu empréstimo PF se eu contratar a Troca de Dívida?"
+                },
+                {
+                  "id": "4237688923",
+                  "title": "O que acontece com minha dívida de Cartão de Crédito em atraso maior ou igual a 95 dias se eu contratar a Troca de Dívida?"
+                },
+                {
+                  "id": "4237688933",
+                  "title": "Se eu estiver negativado pela Neon por conta da dívida de EP PF em atraso ou Cartão maior ou igual a 95 dias de atraso, eu posso contratar a Troca de Dívida?"
+                },
+                {
+                  "id": "4238016620",
+                  "title": "Eu sempre receberei uma oferta de “Mais dinheiro aprovado” (“Grana Extra”) na Troca de Dívida?"
+                },
+                {
+                  "id": "4237754487",
+                  "title": "Eu posso recusar a oferta de “Mais dinheiro aprovado” (“Grana Extra”)?"
+                },
+                {
+                  "id": "4238409760",
+                  "title": "A “Grana Extra” será depositada imediatamente em minha conta?"
+                },
+                {
+                  "id": "4238246006",
+                  "title": "Eu possuo um contrato de Empréstimo Pessoal PF na Neon, posso optar por não realizar a Troca de Dívida?"
+                },
+                {
+                  "id": "4238409770",
+                  "title": "A contratação do “Empréstimo Protegido” é obrigatória?"
+                },
+                {
+                  "id": "4238114963",
+                  "title": "Como cancelo minha “Troca de Dívida”?"
+                }
+              ]
+            },
+            {
+              "id": "2899607567",
+              "title": "Empréstimo Consignado",
+              "articles": [
+                {
+                  "id": "2899542039",
+                  "title": "O que é Empréstimo Consignado?"
+                },
+                {
+                  "id": "2899574806",
+                  "title": "Como peço o empréstimo consignado?"
+                },
+                {
+                  "id": "3530031138",
+                  "title": "Como acompanho a proposta do Empréstimo Consignado?"
+                },
+                {
+                  "id": "2898952336",
+                  "title": "Como funciona o pagamento do empréstimo?"
+                },
+                {
+                  "id": "3530063900",
+                  "title": "Como faço para pagar o empréstimo consignado em caso de demissão da empresa?"
+                },
+                {
+                  "id": "3529900050",
+                  "title": "Como refinancio meu Empréstimo Consignado?"
+                },
+                {
+                  "id": "3530227731",
+                  "title": "Por que não consigo refinanciar todos os meus contratos?"
+                },
+                {
+                  "id": "3529506831",
+                  "title": "Por que minha proposta está expirada?"
+                },
+                {
+                  "id": "3529408525",
+                  "title": "Como funciona o Empréstimo Protegido no Empréstimo Consignado?"
+                },
+                {
+                  "id": "3529506861",
+                  "title": "O que o seguro Empréstimo Protegido cobre no Empréstimo Consignado?"
+                },
+                {
+                  "id": "3529998377",
+                  "title": "Como eu aciono o seguro Empréstimo Protegido Neon no Empréstimo Consignado e recebo a indenização?"
+                },
+                {
+                  "id": "3529670695",
+                  "title": "Quais os documentos necessários para acionar o seguro Empréstimo Protegido Neon no Empréstimo Consignado?"
+                },
+                {
+                  "id": "3529998387",
+                  "title": "Como cancelo o Empréstimo Protegido Neon do meu Empréstimo Consignado?"
+                },
+                {
+                  "id": "3529572394",
+                  "title": "Como cancelo meu Empréstimo Consignado?"
+                },
+                {
+                  "id": "3224338658",
+                  "title": "Como indico minha empresa para ser parceira no empréstimo consignado?"
+                },
+                {
+                  "id": "3906273289",
+                  "title": "O que é a Cessão de Dívida do Empréstimo Consignado?"
+                },
+                {
+                  "id": "3906306053",
+                  "title": "Recebi um e-mail informando que minha dívida foi cedida. O que isso significa?"
+                }
+              ]
+            },
+            {
+              "id": "3076326341",
+              "title": "Seguro Empréstimo Protegido Neon",
+              "articles": [
+                {
+                  "id": "3076457618",
+                  "title": "O que é o seguro Empréstimo Protegido Neon e quais são as coberturas?"
+                },
+                {
+                  "id": "3076457641",
+                  "title": "O que não é coberto pelo seguro Empréstimo Protegido Neon?"
+                },
+                {
+                  "id": "3076457678",
+                  "title": "Como contrato o seguro Empréstimo Protegido?"
+                },
+                {
+                  "id": "3076326390",
+                  "title": "Como eu aciono o seguro Empréstimo Protegido Neon e recebo a indenização?"
+                },
+                {
+                  "id": "3076391684",
+                  "title": "Quais os documentos necessários para acionar o seguro Empréstimo Protegido Neon?"
+                },
+                {
+                  "id": "3076326406",
+                  "title": "Como cancelo o Empréstimo Protegido Neon?"
+                }
+              ]
+            },
+            {
+              "id": "3129868444",
+              "title": "Empréstimo FGTS",
+              "articles": [
+                {
+                  "id": "2553282713",
+                  "title": "O que é o Saque-Aniversário FGTS? E quem tem direito a esse resgate?"
+                },
+                {
+                  "id": "3286597676",
+                  "title": "O que é o Empréstimo do FGTS?"
+                },
+                {
+                  "id": "3286466589",
+                  "title": "Como contrato o Empréstimo FGTS na Neon?"
+                },
+                {
+                  "id": "3286663218",
+                  "title": "Pedi a antecipação do FGTS pelo aplicativo Neon e agora?"
+                },
+                {
+                  "id": "3286630457",
+                  "title": "Simulei uma antecipação do FGTS e o status está como consultando o saldo. O que eu faço?"
+                }
+              ]
+            },
+            {
+              "id": "3571712016",
+              "title": "Grana Extra",
+              "articles": [
+                {
+                  "id": "3571613729",
+                  "title": "Como funciona a grana extra do empréstimo?"
+                },
+                {
+                  "id": "3571777559",
+                  "title": "Por que não tenho uma oferta de grana extra?"
+                }
+              ]
+            },
+            {
+              "id": "3817078886",
+              "title": "Reorganização do Empréstimo",
+              "articles": [
+                {
+                  "id": "3816751145",
+                  "title": "O que é a reorganização do Empréstimo?"
+                },
+                {
+                  "id": "3816915008",
+                  "title": "Quem tem acesso à reorganização do empréstimo?"
+                },
+                {
+                  "id": "3816587334",
+                  "title": "Quantas vezes posso reorganizar meu empréstimo?"
+                },
+                {
+                  "id": "3817177130",
+                  "title": "Posso alterar a data de vencimento do meu empréstimo?"
+                },
+                {
+                  "id": "3816718398",
+                  "title": "Como funciona o pula-parcela da reorganização do empréstimo?"
+                },
+                {
+                  "id": "3816849518",
+                  "title": "Como posso diminuir o valor da parcela do meu empréstimo?"
+                },
+                {
+                  "id": "3817144373",
+                  "title": "O que acontece com o contrato do empréstimo original ao reorganizar o empréstimo?"
+                },
+                {
+                  "id": "3817275462",
+                  "title": "Posso reorganizar um empréstimo atrasado?"
+                },
+                {
+                  "id": "3817373799",
+                  "title": "Quanto custa reorganizar o empréstimo?"
+                },
+                {
+                  "id": "3816915018",
+                  "title": "O que acontece com o meu Seguro Empréstimo Protegido quando faço a Reorganização do empréstimo?"
+                },
+                {
+                  "id": "3816816715",
+                  "title": "Posso dar sugestões de melhoria para a Reorganização de empréstimo Neon?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "category-dto",
+        "attributes": {
+          "id": "2406252952",
+          "title": "Pix e transferências",
+          "subcategories": [
+            {
+              "id": "2406318381",
+              "title": "Funcionamento Pix/TED",
+              "articles": [
+                {
+                  "id": "2749595766",
+                  "title": "Como fazer um Pix?"
+                },
+                {
+                  "id": "2749268149",
+                  "title": "O que é o Pix e quais são as vantagens de usar?"
+                },
+                {
+                  "id": "2749268113",
+                  "title": "Como fazer um Pix pela opção “Enviar Pix”?"
+                },
+                {
+                  "id": "2749497453",
+                  "title": "Como envio o Pix pelo Código QR?"
+                },
+                {
+                  "id": "2749562999",
+                  "title": "Como envio Pix usando a opção “Copia e cola”?"
+                },
+                {
+                  "id": "4250238977",
+                  "title": "Posso fazer Pix pela minha carteira digital?"
+                },
+                {
+                  "id": "2749268120",
+                  "title": "Como recebo um Pix?"
+                },
+                {
+                  "id": "2749005929",
+                  "title": "Como fazer uma transferência TED?"
+                },
+                {
+                  "id": "2749005936",
+                  "title": "Como receber uma transferência TED?"
+                },
+                {
+                  "id": "2405991067",
+                  "title": "Como recebo transferências internacionais?"
+                },
+                {
+                  "id": "2406187775",
+                  "title": "Qual o prazo para uma transferência Pix e TED ser concluída?"
+                },
+                {
+                  "id": "2406122200",
+                  "title": "O que é Pix Saque e Pix Troco?"
+                },
+                {
+                  "id": "2405402073",
+                  "title": "Onde encontro o comprovante de uma transferência Pix e TED?"
+                },
+                {
+                  "id": "2406253043",
+                  "title": "Como faço para manter meus dados do Pix seguros?"
+                },
+                {
+                  "id": "2406515372",
+                  "title": "Como fazer um pagamento pelo Open Finance? "
+                },
+                {
+                  "id": "2454028450",
+                  "title": "Como faço para falar com a Ouvidoria sobre o Pix?"
+                },
+                {
+                  "id": "2454323264",
+                  "title": "Posso registrar uma reclamação no Banco Central sobre o Pix?"
+                },
+                {
+                  "id": "3036578300",
+                  "title": "Como faço para agendar o envio do Pix?"
+                },
+                {
+                  "id": "4339990564",
+                  "title": "Eu posso parcelar um Pix no débito?"
+                },
+                {
+                  "id": "3170697249",
+                  "title": "Como funciona o Pix no Crédito?"
+                },
+                {
+                  "id": "3776839681",
+                  "title": "Posso fazer o Pix crédito pela minha carteira digital?"
+                },
+                {
+                  "id": "4311777299",
+                  "title": "Tive uma compra negada ao tentar fazer o Pix crédito em uma carteira digital. O que faço?"
+                },
+                {
+                  "id": "3170206664",
+                  "title": "O limite elástico ou Viracrédito são utilizados no Pix no Crédito?"
+                },
+                {
+                  "id": "3170762755",
+                  "title": "Posso pedir contestação ou estorno de um Pix no Crédito?"
+                },
+                {
+                  "id": "3170664499",
+                  "title": "Porque não consigo enviar Pix no Crédito?"
+                },
+                {
+                  "id": "3572432903",
+                  "title": "Eu posso programar para fazer um Pix com recorrência?"
+                }
+              ]
+            },
+            {
+              "id": "4288184350",
+              "title": "Pix Automático",
+              "articles": [
+                {
+                  "id": "4319543312",
+                  "title": "Quais empresas participam do Pix automático?"
+                },
+                {
+                  "id": "4225073176",
+                  "title": "O que é o Pix Automático?"
+                },
+                {
+                  "id": "4303814674",
+                  "title": "Posso pagar o Pix Automático para todas as contas que eu quiser?"
+                },
+                {
+                  "id": "4225368071",
+                  "title": "Quais as vantagens do Pix Automático?"
+                },
+                {
+                  "id": "4288053312",
+                  "title": "Qual a diferença do Pix Automático para o débito em conta?"
+                },
+                {
+                  "id": "4225400837",
+                  "title": "Como faço para autorizar uma transação via Pix Automático?"
+                },
+                {
+                  "id": "4225335329",
+                  "title": "Como cancelar um Pix Automático?"
+                },
+                {
+                  "id": "4225236998",
+                  "title": "Como ativar as notificações do meu Pix Automático?"
+                },
+                {
+                  "id": "4303683597",
+                  "title": "O Pix Crédito da Neon pode ser usado como forma de pagamento do Pix Automático?"
+                },
+                {
+                  "id": "4287987765",
+                  "title": "Posso configurar limites diários para os Pix automáticos?"
+                },
+                {
+                  "id": "4287856687",
+                  "title": "Como ajustar o valor máximo de Pagamento via Pix Automático?"
+                },
+                {
+                  "id": "4225597466",
+                  "title": "Como gerenciar ou alterar os detalhes de uma autorização do Pix Automático?"
+                },
+                {
+                  "id": "4287823923",
+                  "title": "O Pix Automático cobra alguma taxa?"
+                },
+                {
+                  "id": "4288184370",
+                  "title": "Como alterar o destinatário ou os dados de um pagamento automático existente?"
+                },
+                {
+                  "id": "4288053301",
+                  "title": "Qual é o limite de valores ou transações no Pix Automático?"
+                },
+                {
+                  "id": "4287627344",
+                  "title": "O que fazer em caso de erro ou falha na execução de um Pix automático?"
+                },
+                {
+                  "id": "4304207895",
+                  "title": "E se no dia do débito do Pix Automático, não tiver saldo suficiente na conta?"
+                },
+                {
+                  "id": "4287692854",
+                  "title": "Como faço para contestar um Pix automático?"
+                },
+                {
+                  "id": "4225138696",
+                  "title": "O que são autorizações pendentes no Pix Automático?"
+                }
+              ]
+            },
+            {
+              "id": "2406089452",
+              "title": "Chaves",
+              "articles": [
+                {
+                  "id": "2748907675",
+                  "title": "Como cadastrar ou excluir uma chave Pix?"
+                },
+                {
+                  "id": "2406023848",
+                  "title": "Não recebi o código para confirmar o cadastro de uma chave Pix. O que faço?"
+                },
+                {
+                  "id": "2427453509",
+                  "title": "O que são as chaves do Pix?"
+                },
+                {
+                  "id": "2406318556",
+                  "title": "Fui cadastrar uma chave e apareceu que ela está vinculada a outra conta. O que devo fazer?"
+                },
+                {
+                  "id": "2406122187",
+                  "title": "O que é e como pedir a portabilidade do Pix?"
+                },
+                {
+                  "id": "2405991213",
+                  "title": "O que é e como pedir uma reivindicação do Pix?"
+                }
+              ]
+            },
+            {
+              "id": "2405991272",
+              "title": "Limites Pix/TED",
+              "articles": [
+                {
+                  "id": "2405402028",
+                  "title": "Tenho limites para fazer transferências TED e Pix?"
+                },
+                {
+                  "id": "3030351957",
+                  "title": "Eu consigo mudar meus limites de Pix e TED?"
+                },
+                {
+                  "id": "3030351970",
+                  "title": "Qual a diferença de Limite para Pessoas físicas e Empresas?"
+                }
+              ]
+            },
+            {
+              "id": "2406023861",
+              "title": "Solução de Problemas",
+              "articles": [
+                {
+                  "id": "2427453495",
+                  "title": "Ao fazer um Pix recebi a mensagem de “Transação recusada”. O que faço?"
+                },
+                {
+                  "id": "3088253267",
+                  "title": "Transferi para a pessoa errada. O que faço?"
+                },
+                {
+                  "id": "2406089505",
+                  "title": "O que fazer se eu digitei um dado incorreto ao fazer um Pix?"
+                },
+                {
+                  "id": "3144155158",
+                  "title": "Estou com dificuldades para fazer Pix. O que faço?"
+                },
+                {
+                  "id": "4276060196",
+                  "title": "O que é o bloqueio MED no Pix?"
+                },
+                {
+                  "id": "3190456549",
+                  "title": "Recebi um Pix, mas ele foi bloqueado. O que aconteceu?"
+                },
+                {
+                  "id": "2406285851",
+                  "title": "Posso devolver um Pix/transferência TED?"
+                },
+                {
+                  "id": "3093495809",
+                  "title": "Fiz uma compra pelo Pix e tive um problema. Como faço para receber o estorno?"
+                },
+                {
+                  "id": "2405991220",
+                  "title": "Meu Pix/transferência TED foi estornado. O que faço?"
+                },
+                {
+                  "id": "2406285871",
+                  "title": "Um Pix foi feito pela minha conta e não reconheço. O que faço?"
+                },
+                {
+                  "id": "2610200747",
+                  "title": "Me roubaram e fizeram um Pix. O que eu faço?"
+                },
+                {
+                  "id": "3182821571",
+                  "title": "O que significa \"Pix com lentidão\"?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "category-dto",
+        "attributes": {
+          "id": "2405534503",
+          "title": "Pagamentos e depósitos",
+          "subcategories": [
+            {
+              "id": "2831745348",
+              "title": "Pagamentos de Contas",
+              "articles": [
+                {
+                  "id": "2406547826",
+                  "title": "Qual o prazo de compensação após o pagamento?"
+                },
+                {
+                  "id": "2405534513",
+                  "title": "Onde encontro o comprovante de pagamento?"
+                },
+                {
+                  "id": "2406678711",
+                  "title": "Meu pagamento foi estornado. O que faço?"
+                },
+                {
+                  "id": "3096182863",
+                  "title": "Quando posso pedir estorno de um pagamento?"
+                },
+                {
+                  "id": "2427453459",
+                  "title": "Posso cancelar ou excluir um pagamento/agendamento feito?"
+                },
+                {
+                  "id": "2406482913",
+                  "title": "Paguei duas vezes o mesmo boleto. O que faço?"
+                },
+                {
+                  "id": "2406123351",
+                  "title": "Como agendar um pagamento?"
+                },
+                {
+                  "id": "3096281132",
+                  "title": "Por quê quando tento pagar um boleto, recebo uma mensagem “Fora do horário”?"
+                },
+                {
+                  "id": "2405992569",
+                  "title": "Como faço para pagar contas no aplicativo?"
+                },
+                {
+                  "id": "3095887912",
+                  "title": "Como faço para pagar contas usando o código de barras?"
+                },
+                {
+                  "id": "3095887924",
+                  "title": "Como faço para pagar contas usando o Pix?"
+                },
+                {
+                  "id": "3096248368",
+                  "title": "O que é horário de pagamento reduzido?"
+                },
+                {
+                  "id": "2406580626",
+                  "title": "Posso colocar uma conta em débito automático?"
+                },
+                {
+                  "id": "2405992602",
+                  "title": "Posso pedir a antecipação de um pagamento?"
+                },
+                {
+                  "id": "2406449959",
+                  "title": "O que fazer quando recebo a mensagem de boleto não registrado?"
+                }
+              ]
+            },
+            {
+              "id": "2831516034",
+              "title": "Depósitos",
+              "articles": [
+                {
+                  "id": "2406580633",
+                  "title": "Como faço para depositar na minha conta?"
+                },
+                {
+                  "id": "2406515494",
+                  "title": "Como gerar um boleto de depósito?"
+                },
+                {
+                  "id": "2406580640",
+                  "title": "Onde posso fazer o pagamento do boleto de depósito?"
+                },
+                {
+                  "id": "2405992609",
+                  "title": "Posso cancelar a emissão de um boleto?"
+                }
+              ]
+            },
+            {
+              "id": "2406547887",
+              "title": "Limites de Pagamento e Depósito",
+              "articles": [
+                {
+                  "id": "2406580687",
+                  "title": "Quais são os limites para pagamentos de boletos? Posso alterar esses limites?"
+                },
+                {
+                  "id": "2405992630",
+                  "title": "Tenho um limite para depositar na conta Neon?"
+                },
+                {
+                  "id": "2406646007",
+                  "title": "Tenho limites para gerar boletos? Posso aumentá-los?"
+                },
+                {
+                  "id": "2406613365",
+                  "title": "Tenho um limite para receber pagamentos na conta Neon?"
+                }
+              ]
+            },
+            {
+              "id": "2406024059",
+              "title": "Pagamentos no WhatsApp",
+              "articles": [
+                {
+                  "id": "2406187871",
+                  "title": "O que é e como funciona o recurso de pagamentos no WhatsApp?"
+                },
+                {
+                  "id": "2406155037",
+                  "title": "Como cadastrar meu cartão Neon para fazer transações pelo WhatsApp?"
+                },
+                {
+                  "id": "2427453502",
+                  "title": "Como faço para enviar dinheiro pelo WhatsApp?"
+                },
+                {
+                  "id": "2427682873",
+                  "title": "Como faço para receber dinheiro pelo WhatsApp?"
+                },
+                {
+                  "id": "2427748412",
+                  "title": "Como faço para solicitar dinheiro pelo WhatsApp?"
+                },
+                {
+                  "id": "2428010554",
+                  "title": "Quais são meus limites disponíveis para usar o recurso de pagamentos do WhatsApp? Posso alterá-los?"
+                },
+                {
+                  "id": "2428108869",
+                  "title": "Como acesso meus comprovantes de pagamento no WhatsApp e sei que o pagamento foi feito?"
+                },
+                {
+                  "id": "2427879507",
+                  "title": "Tive meu celular roubado ou meu WhatsApp clonado. Corro risco de ter alguma transação feita sem minha autorização?"
+                }
+              ]
+            },
+            {
+              "id": "3637772336",
+              "title": "Boleto no crédito",
+              "articles": [
+                {
+                  "id": "3638034483",
+                  "title": "Posso pagar boleto com limite do cartão de crédito?"
+                },
+                {
+                  "id": "3637510162",
+                  "title": "Quais são os benefícios de usar o limite de crédito para pagar boletos?"
+                },
+                {
+                  "id": "3638231051",
+                  "title": "Por que não aparece a opção de pagar o Boleto no Crédito no meu aplicativo?"
+                },
+                {
+                  "id": "3637805096",
+                  "title": "Qual o prazo de compensação de um boleto pago com cartão de crédito?"
+                },
+                {
+                  "id": "3637641260",
+                  "title": "Posso cancelar um pagamento de boleto feito com cartão de crédito?"
+                },
+                {
+                  "id": "3637706808",
+                  "title": "Pagar boletos com meu cartão de crédito consome o meu limite?"
+                },
+                {
+                  "id": "3637772354",
+                  "title": "Quais boletos podem ser pagos usando o cartão de crédito?"
+                },
+                {
+                  "id": "3637674033",
+                  "title": "Eu posso pagar qualquer valor usando limite de crédito?"
+                },
+                {
+                  "id": "3638296609",
+                  "title": "Quais são as taxas e encargos envolvidos no pagamento de boletos com o limite de crédito?"
+                },
+                {
+                  "id": "3637674043",
+                  "title": "Não reconheço um pagamento de boleto no meu cartão de crédito. O que faço?"
+                },
+                {
+                  "id": "3637968937",
+                  "title": "Posso pedir contestação de um boleto pago no Crédito?"
+                },
+                {
+                  "id": "3775496225",
+                  "title": "Posso pagar um boleto no crédito pela minha carteira digital?"
+                }
+              ]
+            },
+            {
+              "id": "4072636436",
+              "title": "Buscador de Boletos (DDA)",
+              "articles": [
+                {
+                  "id": "4072275987",
+                  "title": "O que é o buscador de boletos Neon?"
+                },
+                {
+                  "id": "4071915562",
+                  "title": "Como ativar o Buscador de boletos (DDA) da Neon no aplicativo?"
+                },
+                {
+                  "id": "4072538125",
+                  "title": "Posso desativar o Buscador de boletos Neon (DDA)?"
+                },
+                {
+                  "id": "4072669193",
+                  "title": "O buscador de boletos é a mesma coisa de débito automático?"
+                },
+                {
+                  "id": "4072177679",
+                  "title": "O Buscador de Boletos (DDA) é seguro?"
+                },
+                {
+                  "id": "4072046639",
+                  "title": "Quais contas podem ser pagas via Buscador de Boletos (DDA)?"
+                },
+                {
+                  "id": "4072407055",
+                  "title": "Quais são as vantagens do Buscador de Boletos (DDA)?"
+                },
+                {
+                  "id": "4072177689",
+                  "title": "Por que a ativação e o cancelamento do serviço de buscador de boletos não são imediatos?"
+                },
+                {
+                  "id": "4072669207",
+                  "title": "Por que não consegui ativar o meu buscador de boletos?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "category-dto",
+        "attributes": {
+          "id": "2406547907",
+          "title": "Investimentos",
+          "subcategories": [
+            {
+              "id": "2831712536",
+              "title": "Tipos de Investimento",
+              "articles": [
+                {
+                  "id": "2406449980",
+                  "title": "O que é um investimento e por que investir na Neon?"
+                },
+                {
+                  "id": "2898788411",
+                  "title": "Quais tipos de investimento a Neon tem?"
+                },
+                {
+                  "id": "2406580735",
+                  "title": "O que é CDI, CDB, Cetip?"
+                }
+              ]
+            },
+            {
+              "id": "2406711552",
+              "title": "Funcionamento",
+              "articles": [
+                {
+                  "id": "3067379759",
+                  "title": "Como funcionam os CDBs da Neon?"
+                },
+                {
+                  "id": "2406613390",
+                  "title": "Como faço um investimento?"
+                },
+                {
+                  "id": "3117121545",
+                  "title": "Como faço para investir automaticamente todo mês?"
+                },
+                {
+                  "id": "3218964481",
+                  "title": "Como resgato o meu investimento?"
+                },
+                {
+                  "id": "2406123416",
+                  "title": "Quais são as tarifas cobradas no resgate do investimento?"
+                },
+                {
+                  "id": "3117154307",
+                  "title": "Como defino uma meta para o meu investimento?"
+                },
+                {
+                  "id": "3067478097",
+                  "title": "O que é o vencimento do CDB?"
+                },
+                {
+                  "id": "3067445336",
+                  "title": "Qual a diferença de carência e vencimento?"
+                },
+                {
+                  "id": "3067740178",
+                  "title": "Quanto rendem os CDBs da Neon?"
+                },
+                {
+                  "id": "3067772955",
+                  "title": "Não consigo resgatar meu investimento, o que eu faço?"
+                },
+                {
+                  "id": "2406515531",
+                  "title": "Meu dinheiro investido está seguro?"
+                },
+                {
+                  "id": "2406547939",
+                  "title": "Onde encontro o extrato do meu investimento?"
+                },
+                {
+                  "id": "3680272400",
+                  "title": "O dinheiro investido no meu CDB foi resgatado sem que eu pedisse. O que aconteceu?"
+                },
+                {
+                  "id": "3709796434",
+                  "title": "Por que meu investimento no CDB foi bloqueado?"
+                },
+                {
+                  "id": "3068461230",
+                  "title": "Como funciona o rendimento do CDB 113%?"
+                },
+                {
+                  "id": "3045032050",
+                  "title": "Como nomear a caixinha do meu investimento CDB?"
+                },
+                {
+                  "id": "3407151106",
+                  "title": "Posso usar meu investimento CDB como limite do cartão de crédito?"
+                },
+                {
+                  "id": "2988802137",
+                  "title": "Por que me pediram uma atualização de cadastro de Investimento e o que significam estes dados solicitados?"
+                },
+                {
+                  "id": "3057910118",
+                  "title": "Tenho cidadania norte-americana e tenho investimento na Neon. Quais são as informações que preciso enviar e por quê?"
+                },
+                {
+                  "id": "3058761895",
+                  "title": "Tenho residência fiscal fora do Brasil e tenho investimento na Neon. Preciso enviar alguma informação?"
+                },
+                {
+                  "id": "3068493994",
+                  "title": "O que são termos e condições?"
+                },
+                {
+                  "id": "3354984468",
+                  "title": "Como funciona a campanha do CDB com 150% do CDI?"
+                },
+                {
+                  "id": "4304142357",
+                  "title": "O que é a Missão CDB e como participar?"
+                }
+              ]
+            },
+            {
+              "id": "3448373284",
+              "title": "CDB Planejado",
+              "articles": [
+                {
+                  "id": "3448537109",
+                  "title": "O que é o CDB Planejado da Neon?"
+                },
+                {
+                  "id": "3448504366",
+                  "title": "Quanto preciso investir no CDB Planejado?"
+                },
+                {
+                  "id": "3448569911",
+                  "title": "Qual é o prazo de carência do CDB Planejado?"
+                },
+                {
+                  "id": "3703668746",
+                  "title": "O que acontece após o vencimento?"
+                },
+                {
+                  "id": "3448340496",
+                  "title": "Como funciona a rentabilidade do CDB Planejado?"
+                },
+                {
+                  "id": "3448340506",
+                  "title": "Como funciona o resgate antecipado do CDB Planejado?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "category-dto",
+        "attributes": {
+          "id": "2406481950",
+          "title": "Recarga",
+          "subcategories": [
+            {
+              "id": "2406481957",
+              "title": "Funcionamento Recarga",
+              "articles": [
+                {
+                  "id": "2406514710",
+                  "title": "Como faço para recarregar meu celular?"
+                },
+                {
+                  "id": "2406449221",
+                  "title": "Como faço para ativar/desativar uma recarga programada?"
+                }
+              ]
+            },
+            {
+              "id": "2406122650",
+              "title": "Solução de problemas Recarga",
+              "articles": [
+                {
+                  "id": "2405533759",
+                  "title": "Fiz uma recarga para o número incorreto. Como resolver?"
+                },
+                {
+                  "id": "2406482025",
+                  "title": "Tem uma recarga em meu celular que não lembro de ter feito. Como resolver?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "category-dto",
+        "attributes": {
+          "id": "4148330512",
+          "title": "Compra Planejada",
+          "subcategories": [
+            {
+              "id": "4147904550",
+              "title": "Compra Planejada na Neon",
+              "articles": [
+                {
+                  "id": "4148166697",
+                  "title": "O que é a Compra Planejada?"
+                },
+                {
+                  "id": "4148166707",
+                  "title": "Como funciona a Compra Planejada?"
+                },
+                {
+                  "id": "4147904560",
+                  "title": "Como contrato a Compra Planejada?"
+                },
+                {
+                  "id": "4147970069",
+                  "title": "Quais produtos podem ser comprados com a Compra Planejada?"
+                },
+                {
+                  "id": "4147838992",
+                  "title": "Como é feito o pagamento da Compra Planejada?"
+                },
+                {
+                  "id": "4148428843",
+                  "title": "E se eu atrasar o pagamento das mensalidades?"
+                },
+                {
+                  "id": "4148461591",
+                  "title": "Posso cancelar a Compra Planejada?"
+                },
+                {
+                  "id": "4148330522",
+                  "title": "Onde eu posso comprar o celular?"
+                },
+                {
+                  "id": "4147904579",
+                  "title": "Posso alterar o valor do crédito depois de contratar?"
+                },
+                {
+                  "id": "4148232217",
+                  "title": "Tive um problema com a Compra Planejada. O que faço?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "category-dto",
+        "attributes": {
+          "id": "3619946717",
+          "title": "Área MEI",
+          "subcategories": [
+            {
+              "id": "4022665247",
+              "title": "DASN - Declaração Anual",
+              "articles": [
+                {
+                  "id": "4022140998",
+                  "title": "Como faço a Declaração Anual no aplicativo?"
+                },
+                {
+                  "id": "4022730753",
+                  "title": "Não sei o meu faturamento. O que faço?"
+                },
+                {
+                  "id": "4022141008",
+                  "title": "Posso enviar a Declaração atrasada?"
+                },
+                {
+                  "id": "4022763521",
+                  "title": "Não paguei minha multa por atraso na Declaração (DARF) no vencimento. Como faço para atualizar o boleto?"
+                },
+                {
+                  "id": "4022173755",
+                  "title": "Ultrapassei o limite de faturamento. O que faço?"
+                },
+                {
+                  "id": "4021911660",
+                  "title": "Onde posso pagar meu DARF?"
+                },
+                {
+                  "id": "4022763531",
+                  "title": "Enviei minha Declaração com o valor errado. Como faço para corrigir?"
+                },
+                {
+                  "id": "4022173765",
+                  "title": "Foi gerado um boleto DARF ao enviar minha Declaração atrasada. O que isso significa?"
+                },
+                {
+                  "id": "4022403162",
+                  "title": "Não tive faturamento. Preciso entregar a Declaração Anual?"
+                },
+                {
+                  "id": "4022501442",
+                  "title": "Onde pego o recibo da minha Declaração Anual (DASN)?"
+                }
+              ]
+            },
+            {
+              "id": "3619946727",
+              "title": "Serviços MEI no app Neon",
+              "articles": [
+                {
+                  "id": "3619946737",
+                  "title": "Os serviços da MEI Fácil agora estão no aplicativo Neon?"
+                },
+                {
+                  "id": "3620503566",
+                  "title": "Sou cliente Neon, eu posso ser MEI?"
+                },
+                {
+                  "id": "3620667404",
+                  "title": "Posso ter os serviços de MEI sem ter conta na Neon?"
+                },
+                {
+                  "id": "3620176099",
+                  "title": "Por que os serviços da MEI Fácil vieram para o aplicativo Neon?"
+                },
+                {
+                  "id": "3620012245",
+                  "title": "Eu era cliente MEI Fácil, mas não consigo abrir minha conta na Neon. O que faço?"
+                },
+                {
+                  "id": "3620634660",
+                  "title": "Vou poder ter acesso aos dois aplicativos, MEI Fácil e Neon?"
+                },
+                {
+                  "id": "3986227228",
+                  "title": "Posso ter uma chave Pix com meu CNPJ?"
+                },
+                {
+                  "id": "3985866810",
+                  "title": "Posso continuar a usar minha chave Pix CNPJ caso encerre minhas atividades MEI?"
+                },
+                {
+                  "id": "3985637419",
+                  "title": "Ao cadastrar uma chave Pix com meu CNPJ a minha conta Neon vira uma conta PJ?"
+                },
+                {
+                  "id": "3985801245",
+                  "title": "Sou um MEI e não estou encontrando meu CNPJ para ativar na seção Minhas Chaves, o que fazer?"
+                },
+                {
+                  "id": "4121493513",
+                  "title": "A conta Neon é uma conta PF ou PJ?"
+                },
+                {
+                  "id": "4121100294",
+                  "title": "No app Neon devo clicar em “Criar uma conta” ou “Já sou cliente”?"
+                },
+                {
+                  "id": "4121591817",
+                  "title": "O que será migrado automaticamente da conta MEI para conta Neon?"
+                },
+                {
+                  "id": "4121034778",
+                  "title": "Não quero ir para o aplicativo Neon, o que fazer?"
+                }
+              ]
+            },
+            {
+              "id": "3620667416",
+              "title": "DAS",
+              "articles": [
+                {
+                  "id": "3619946747",
+                  "title": "O que é DAS?"
+                },
+                {
+                  "id": "3619946761",
+                  "title": "Quais são os status do DAS?"
+                },
+                {
+                  "id": "3620438031",
+                  "title": "Como acesso os DAS de anos anteriores?"
+                },
+                {
+                  "id": "3620536335",
+                  "title": "A DASN influencia no DAS?"
+                },
+                {
+                  "id": "3620176112",
+                  "title": "Qual é o valor do DAS?"
+                },
+                {
+                  "id": "3620176122",
+                  "title": "Como e quando devo pagar o DAS?"
+                },
+                {
+                  "id": "3620732940",
+                  "title": "Como funciona o débito automático para pagamento do DAS?"
+                },
+                {
+                  "id": "3620634670",
+                  "title": "Como pago ou parcelo os DAS atrasados?"
+                },
+                {
+                  "id": "3620765724",
+                  "title": "Não estou conseguindo gerar meu DAS. O que faço?"
+                },
+                {
+                  "id": "3620831249",
+                  "title": "Estou recebendo benefício do INSS. Devo pagar o DAS?"
+                },
+                {
+                  "id": "3620765734",
+                  "title": "O código de barras do DAS deu inválido. O que faço?"
+                },
+                {
+                  "id": "3620765744",
+                  "title": "O código de barras de DAS está diferente do site do governo. O que faço?"
+                },
+                {
+                  "id": "3620634680",
+                  "title": "Paguei o mesmo DAS mais de uma vez ou paguei errado. O que faço?"
+                },
+                {
+                  "id": "3620536349",
+                  "title": "Já paguei, mas está como atrasado. O que faço?"
+                }
+              ]
+            },
+            {
+              "id": "3620667427",
+              "title": "Abertura do MEI",
+              "articles": [
+                {
+                  "id": "3620798484",
+                  "title": "Quem pode ser MEI?"
+                },
+                {
+                  "id": "3620438053",
+                  "title": "Como faço para abrir meu MEI?"
+                },
+                {
+                  "id": "3620896779",
+                  "title": "Os dados de telefone e e-mail que aparecem ao redefinir a senha Gov.br não são meus. Como faço para alterá-los?"
+                },
+                {
+                  "id": "3620438064",
+                  "title": "Abri o MEI, e agora? Preciso levar meus documentos em algum lugar?"
+                },
+                {
+                  "id": "3620667438",
+                  "title": "Como pago meu INSS após a abertura do CNPJ?"
+                },
+                {
+                  "id": "3620896789",
+                  "title": "O que é selo de confiabilidade do Governo?"
+                }
+              ]
+            },
+            {
+              "id": "3620700207",
+              "title": "Direitos do MEI",
+              "articles": [
+                {
+                  "id": "3619946793",
+                  "title": "Tenho direito a 13° salário ao abrir MEI?"
+                },
+                {
+                  "id": "3620176156",
+                  "title": "Tenho direito ao PIS se abrir o MEI?"
+                },
+                {
+                  "id": "3621060621",
+                  "title": "Como faço para contratar funcionários?"
+                },
+                {
+                  "id": "3620601908",
+                  "title": "Perco o Seguro Desemprego se abrir o MEI?"
+                },
+                {
+                  "id": "3620503596",
+                  "title": "Já me aposentei, perco o benefício se abrir MEI?"
+                },
+                {
+                  "id": "3620798494",
+                  "title": "Tenho direito ao FGTS se abrir MEI?"
+                },
+                {
+                  "id": "3620601918",
+                  "title": "Sou MEI, preciso declarar Imposto de Renda (IRPF) também?"
+                },
+                {
+                  "id": "3620798504",
+                  "title": "Como faço para me aposentar pelo MEI?"
+                },
+                {
+                  "id": "3620700217",
+                  "title": "Como faço para solicitar o auxílio-doença?"
+                },
+                {
+                  "id": "3620732975",
+                  "title": "Como faço para solicitar o salário-maternidade?"
+                },
+                {
+                  "id": "3621060639",
+                  "title": "Posso adiantar o pagamento do DAS para receber o benefício?"
+                },
+                {
+                  "id": "3620012271",
+                  "title": "Quais são os benefícios do INSS que tenho direito como MEI e qual a carência?"
+                },
+                {
+                  "id": "3620536367",
+                  "title": "Todas as minhas contribuições anteriores serão somadas quando me aposentar?"
+                }
+              ]
+            },
+            {
+              "id": "3620601937",
+              "title": "Documentos do MEI",
+              "articles": [
+                {
+                  "id": "3620208879",
+                  "title": "Preciso de Inscrição Estadual?"
+                },
+                {
+                  "id": "3619946822",
+                  "title": "Como faço para emitir um comprovante de renda?"
+                },
+                {
+                  "id": "3745906717",
+                  "title": "Como faço para gerar meu cartão CNPJ?"
+                },
+                {
+                  "id": "3746070585",
+                  "title": "Como faço para gerar meu Certificado MEI (CCMEI)?"
+                },
+                {
+                  "id": "3621224461",
+                  "title": "Preciso de alvará da prefeitura?"
+                },
+                {
+                  "id": "3621388289",
+                  "title": "Preciso de Inscrição Municipal?"
+                },
+                {
+                  "id": "3621453833",
+                  "title": "Como faço para gerar uma Certidão Negativa de Débitos (CND)?"
+                },
+                {
+                  "id": "3621552129",
+                  "title": "Como o MEI é tributado no Imposto de Renda Pessoa Física (IRPF)?"
+                },
+                {
+                  "id": "3621617668",
+                  "title": "Como faço para prestar serviços ou vender para fora do Brasil?"
+                }
+              ]
+            },
+            {
+              "id": "3621715969",
+              "title": "Compras e serviços bancários",
+              "articles": [
+                {
+                  "id": "3621748737",
+                  "title": "Posso fazer um empréstimo com meu MEI?"
+                },
+                {
+                  "id": "3621814275",
+                  "title": "Qual é o limite de compras com o MEI?"
+                },
+                {
+                  "id": "3621683209",
+                  "title": "Posso comprar com meu CNPJ?"
+                },
+                {
+                  "id": "3621814294",
+                  "title": "Como faço para saber o quanto já comprei com meu CNPJ?"
+                }
+              ]
+            },
+            {
+              "id": "3621421061",
+              "title": "Nota fiscal e recibos",
+              "articles": [
+                {
+                  "id": "3621421071",
+                  "title": "O que é Nota Fiscal? Preciso emitir?"
+                },
+                {
+                  "id": "3621847042",
+                  "title": "Posso emitir notas fiscais pelo aplicativo da Neon?"
+                },
+                {
+                  "id": "3621978115",
+                  "title": "O que é o Certificado digital? Preciso ter um?"
+                },
+                {
+                  "id": "3621879827",
+                  "title": "Como faço para verificar o quanto já emiti de notas?"
+                },
+                {
+                  "id": "3621584914",
+                  "title": "Como faço para cancelar uma nota fiscal já emitida?"
+                },
+                {
+                  "id": "3621650455",
+                  "title": "Preciso imprimir bloco de notas fiscais?"
+                },
+                {
+                  "id": "3621552150",
+                  "title": "Posso comprar com nota fiscal e vender sem nota?"
+                },
+                {
+                  "id": "3621453858",
+                  "title": "Preciso pagar DIFAL (Diferencial de alíquota)?"
+                },
+                {
+                  "id": "3621355522",
+                  "title": "O que preciso para emitir uma DANFE?"
+                },
+                {
+                  "id": "3622109185",
+                  "title": "Como faço para emitir cupom fiscal?"
+                },
+                {
+                  "id": "3621552160",
+                  "title": "O recibo substitui a nota fiscal?"
+                },
+                {
+                  "id": "3621715988",
+                  "title": "Envio mercadorias pelos Correios. Preciso emitir notas?"
+                },
+                {
+                  "id": "3621453868",
+                  "title": "Como faço para emitir uma invoice?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "category-dto",
+        "attributes": {
+          "id": "2787508275",
+          "title": "Seguros",
+          "subcategories": [
+            {
+              "id": "2787606533",
+              "title": "Proteção Bens e Dinheiro",
+              "articles": [
+                {
+                  "id": "2787082547",
+                  "title": "O que é Proteção pra Bens e Dinheiro?"
+                },
+                {
+                  "id": "2787115254",
+                  "title": "Como funciona o Seguro Proteção para Bens e Dinheiro?"
+                },
+                {
+                  "id": "2786984256",
+                  "title": "O que não é coberto pelo Seguro Proteção para Bens e Dinheiro?"
+                },
+                {
+                  "id": "2787606565",
+                  "title": "Quais são as opções de planos do Seguro Proteção para Bens e Dinheiro e como faço para contratar?"
+                },
+                {
+                  "id": "2787017011",
+                  "title": "Como eu aciono o Seguro Proteção para Bens e Dinheiro?"
+                },
+                {
+                  "id": "2787049701",
+                  "title": "Como eu pago o Seguro Proteção para Bens e Dinheiro?"
+                },
+                {
+                  "id": "2787115279",
+                  "title": "Quais são os documentos necessários para acionar o meu Seguro Proteção para Bens e Dinheiro?"
+                },
+                {
+                  "id": "2787606577",
+                  "title": "Como cancelo meu Seguro Proteção para Bens e Dinheiro? Tenho reembolso?"
+                },
+                {
+                  "id": "2786427382",
+                  "title": "O que acontece quando eu não pago meu Seguro Proteção para Bens e Dinheiro?"
+                },
+                {
+                  "id": "2787508299",
+                  "title": "Como eu encontro o contrato do meu Seguro Proteção para Bens e Dinheiro?"
+                }
+              ]
+            },
+            {
+              "id": "3069608067",
+              "title": "Seguro Fatura Protegida",
+              "articles": [
+                {
+                  "id": "3070099457",
+                  "title": "O que é a Fatura Protegida do Cartão de Crédito Neon?"
+                },
+                {
+                  "id": "3069706323",
+                  "title": "Quais são as coberturas do Fatura Protegida para o meu cartão de crédito Neon?"
+                },
+                {
+                  "id": "3169124395",
+                  "title": "Como é feita a cobrança do Seguro Fatura protegida?"
+                },
+                {
+                  "id": "3069870166",
+                  "title": "Quais benefícios eu tenho contratando o seguro Fatura Protegida do meu cartão de crédito Neon?"
+                },
+                {
+                  "id": "3069575303",
+                  "title": "O que não é coberto pelo seguro Fatura protegida?"
+                },
+                {
+                  "id": "3069804610",
+                  "title": "Como eu aciono o Fatura protegida do Cartão de Crédito Neon e recebo a indenização?"
+                },
+                {
+                  "id": "3069935642",
+                  "title": "Como contrato o seguro Fatura Protegida do meu cartão de crédito Neon?"
+                },
+                {
+                  "id": "3069608082",
+                  "title": "Como eu encontro o contrato do seguro Fatura Protegida do Cartão de Crédito?"
+                },
+                {
+                  "id": "3070132252",
+                  "title": "Quais os documentos necessários para acionar o seguro Fatura Protegida do Cartão de Crédito Neon?"
+                },
+                {
+                  "id": "3069968467",
+                  "title": "Como cancelo o Fatura Protegida do cartão de crédito?"
+                },
+                {
+                  "id": "3089268833",
+                  "title": "Não consigo contratar o Seguro Fatura Protegida. O que faço?"
+                },
+                {
+                  "id": "3392634917",
+                  "title": "Como é usado o valor da indenização do Fatura Protegida no meu cartão de crédito quando eu aciono o seguro?"
+                },
+                {
+                  "id": "3392995385",
+                  "title": "O que acontece se eu deixar de pagar uma mensalidade do Fatura Protegida ou ficar um  período longo sem pagar?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "category-dto",
+        "attributes": {
+          "id": "2406515382",
+          "title": "Campanhas e promoções",
+          "subcategories": [
+            {
+              "id": "2830108133",
+              "title": "Campanhas da Neon",
+              "articles": [
+                {
+                  "id": "2406449857",
+                  "title": "Ainda não recebi meu bônus da campanha. O que eu faço?"
+                },
+                {
+                  "id": "2406547737",
+                  "title": "Como participo da campanha?"
+                },
+                {
+                  "id": "2406613256",
+                  "title": "O que é e como participo do Desafio das 52 Semanas?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "category-dto",
+        "attributes": {
+          "id": "2405992060",
+          "title": "Segurança",
+          "subcategories": [
+            {
+              "id": "2830795901",
+              "title": "Perda, Furto e Roubo",
+              "articles": [
+                {
+                  "id": "2406253438",
+                  "title": "Perdi meu cartão físico. O que faço?"
+                },
+                {
+                  "id": "2406318953",
+                  "title": "Roubaram meu cartão físico. O que faço?"
+                },
+                {
+                  "id": "2855010305",
+                  "title": "O que devo fazer em caso de perda ou roubo do celular?"
+                }
+              ]
+            },
+            {
+              "id": "2405534123",
+              "title": "Golpes e Fraude",
+              "articles": [
+                {
+                  "id": "2405534139",
+                  "title": "Quais são os tipos de golpes mais comuns?"
+                },
+                {
+                  "id": "2406449574",
+                  "title": "Como denuncio um golpe?"
+                },
+                {
+                  "id": "2566815873",
+                  "title": "Quais são os tipos de golpe por Pix e o que eu faço?"
+                },
+                {
+                  "id": "2566520977",
+                  "title": "Como evitar fraude pelo WhatsApp?"
+                },
+                {
+                  "id": "2567045263",
+                  "title": "Como reconhecer um golpe por boleto e o que fazer?"
+                },
+                {
+                  "id": "2406482387",
+                  "title": "Quais são os golpes virtuais mais comuns?"
+                },
+                {
+                  "id": "2406580260",
+                  "title": "Como se proteger do roubo de dados na internet?"
+                },
+                {
+                  "id": "2405534132",
+                  "title": "Como evitar os golpes pela internet e comprar com segurança?"
+                },
+                {
+                  "id": "2427519080",
+                  "title": "Qual é a relação entre segurança de dados na internet e suas finanças?"
+                }
+              ]
+            },
+            {
+              "id": "2990080006",
+              "title": "Site e Privacidade",
+              "articles": [
+                {
+                  "id": "2990014509",
+                  "title": "O que são os cookies usados no site Neon?"
+                },
+                {
+                  "id": "2990309421",
+                  "title": "Como altero as configurações dos cookies usados no site da Neon?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "category-dto",
+        "attributes": {
+          "id": "2640642083",
+          "title": "Portabilidade de Salário",
+          "subcategories": [
+            {
+              "id": "2832105827",
+              "title": "Funcionamento Portabilidade",
+              "articles": [
+                {
+                  "id": "2640707611",
+                  "title": "O que é portabilidade de salário? "
+                },
+                {
+                  "id": "2768666932",
+                  "title": "Posso cancelar a Portabilidade de Salário?"
+                },
+                {
+                  "id": "2888827384",
+                  "title": "Fiz a portabilidade de salário e o valor ainda não caiu na conta. O que faço?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "category-dto",
+        "attributes": {
+          "id": "2832269566",
+          "title": "Fale Conosco",
+          "subcategories": [
+            {
+              "id": "2830795920",
+              "title": "Canais de contato",
+              "articles": [
+                {
+                  "id": "3059777754",
+                  "title": "A Neon tem atendimento via WhatsApp?"
+                },
+                {
+                  "id": "2460057696",
+                  "title": "Como funciona o atendimento na Neon?"
+                },
+                {
+                  "id": "2406645862",
+                  "title": "Como falo com a assessoria de imprensa da Neon?"
+                },
+                {
+                  "id": "3439689807",
+                  "title": "Preciso enviar um documento judicial. Como faço?"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
