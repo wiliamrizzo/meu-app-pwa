@@ -1,6 +1,6 @@
 import React from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
-import { ArrowLeft } from 'lucide-react';
+import { ArrowLeft, ChevronRight } from 'lucide-react';
 import { motion } from 'framer-motion';
 import './Escalas.css';
 
@@ -11,27 +11,27 @@ export default function Artigos() {
 
   return (
     <motion.div
-      className="escalas-container"
+      className="escalas-novo-container"
       initial={{ x: '100%' }}
       animate={{ x: 0 }}
       exit={{ x: '-100%' }}
       transition={{ duration: 0.3 }}
     >
-      <header className="escalas-header">
-        <button onClick={() => navigate(-1)} className="escalas-back-button">
+      <header className="escalas-novo-header">
+        <button onClick={() => navigate(-1)} className="escalas-back-button" aria-label="Voltar">
           <ArrowLeft size={24} strokeWidth={1.5} />
         </button>
-        <h2 className="escalas-title">{subcategoriaTitle}</h2>
+        <h2 className="escalas-novo-page-title">{subcategoriaTitle}</h2>
         <div className="placeholder" />
       </header>
-
-      <div className="escalas-list">
+      <ul className="escalas-novo-list">
         {artigos.map((artigo) => (
-          <div key={artigo.id} className="escalas-item">
-            <h3>{artigo.title}</h3>
-          </div>
+          <li className="escalas-novo-item" key={artigo.id}>
+            <span className="escalas-novo-title">{artigo.title}</span>
+            <ChevronRight size={22} strokeWidth={2} />
+          </li>
         ))}
-      </div>
+      </ul>
     </motion.div>
   );
 }

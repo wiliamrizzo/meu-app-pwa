@@ -1,6 +1,6 @@
 import React from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
-import { ArrowLeft } from 'lucide-react';
+import { ArrowLeft, ChevronRight } from 'lucide-react';
 import { motion } from 'framer-motion';
 import './Escalas.css';
 
@@ -10,7 +10,7 @@ export default function Subcategorias() {
   const { subcategorias = [], categoriaTitle = '' } = location.state || {};
 
   const handleSubcategoriaClick = (subcategoria) => {
-    navigate('/artigos', {
+    navigate('/escalas/artigos', {
       state: {
         artigos: subcategoria.articles,
         subcategoriaTitle: subcategoria.title,
@@ -20,31 +20,31 @@ export default function Subcategorias() {
 
   return (
     <motion.div
-      className="escalas-container"
+      className="escalas-novo-container"
       initial={{ x: '100%' }}
       animate={{ x: 0 }}
       exit={{ x: '-100%' }}
       transition={{ duration: 0.3 }}
     >
-      <header className="escalas-header">
-        <button onClick={() => navigate(-1)} className="escalas-back-button">
+      <header className="escalas-novo-header">
+        <button onClick={() => navigate(-1)} className="escalas-back-button" aria-label="Voltar">
           <ArrowLeft size={24} strokeWidth={1.5} />
         </button>
-        <h2 className="escalas-title">{categoriaTitle}</h2>
+        <h2 className="escalas-novo-page-title">{categoriaTitle}</h2>
         <div className="placeholder" />
       </header>
-
-      <div className="escalas-list">
+      <ul className="escalas-novo-list">
         {subcategorias.map((subcategoria) => (
-          <div
+          <li
+            className="escalas-novo-item"
             key={subcategoria.id}
-            className="escalas-item"
             onClick={() => handleSubcategoriaClick(subcategoria)}
           >
-            <h3>{subcategoria.title}</h3>
-          </div>
+            <span className="escalas-novo-title">{subcategoria.title}</span>
+            <ChevronRight size={22} strokeWidth={2} />
+          </li>
         ))}
-      </div>
+      </ul>
     </motion.div>
   );
 }

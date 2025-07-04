@@ -1,41 +1,37 @@
-.escalas-container {
-  padding-top: env(safe-area-inset-top);
-  background: linear-gradient(to bottom, #0e2a3b, #152f40);
+.escalas-novo-container {
   min-height: 100vh;
-  color: #e8e8e8;
+  background: #fff;
   font-family: Arial, sans-serif;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: column;
 }
 
-.escalas-header {
+.escalas-novo-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
   position: sticky;
   top: 0;
   z-index: 100;
-  padding: 15px;
-  background: linear-gradient(to bottom, #3a5568, #152f40);
-  border-bottom: 1px solid #3a5568;
+  background: #fff;
+  padding: 12px 8px 12px 2px;
+  border-bottom: 1px solid #f0f0f0;
+  min-height: 48px;
 }
 
-.escalas-title {
+.escalas-novo-page-title {
+  flex: 1;
+  text-align: left;
+  color: #15407c;
+  font-weight: bold;
   font-size: 18px;
-  font-weight: normal;
-  margin: 0;
-  color: #ffffff;
-  text-align: center;
-  flex-grow: 1;
+  margin: 0 0 0 8px;
 }
 
 .escalas-back-button {
   background: none;
   border: none;
-  color: #e8e8e8;
+  color: #15407c;
   cursor: pointer;
-  padding: 0;
+  padding: 0 8px 0 0;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -45,7 +41,7 @@
 }
 
 .escalas-back-button:hover {
-  color: #ffffff;
+  color: #2361b2;
 }
 
 .placeholder {
@@ -53,29 +49,43 @@
   height: 24px;
 }
 
-.escalas-list {
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-  padding: 0 20px 20px;
-  flex-grow: 1;
-}
-
-.escalas-item {
-  background-color: #1e3a4c;
-  border-radius: 12px;
-  padding: 16px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-  transition: transform 0.2s;
-  cursor: pointer;
-}
-
-.escalas-item:hover {
-  transform: scale(1.02);
-}
-
-.escalas-item h3 {
+.escalas-novo-list {
+  list-style: none;
+  padding: 0;
   margin: 0;
-  font-size: 14px;
-  color: #d1d5db;
+}
+
+.escalas-novo-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 18px 20px 16px;
+  font-size: 18px;
+  color: #15407c;
+  font-weight: bold;
+  border-bottom: 1px solid #f0f0f0;
+  cursor: pointer;
+  background: #fff;
+  transition: background 0.15s;
+}
+
+.escalas-novo-item:last-child {
+  border-bottom: none;
+}
+
+.escalas-novo-item:active {
+  background: #f2f7fd;
+}
+
+.escalas-novo-title {
+  flex: 1;
+  color: #15407c;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.escalas-center-title {
+  text-align: center;
+  flex: 1;
+  margin: 0;
 }
